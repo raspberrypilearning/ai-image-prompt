@@ -13,7 +13,7 @@ Begin with a basic idea. This is your starting point.
 
 Run this prompt in the image generator. See what it creates.
 
-![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop](images\prompt.jpg)
+![An orange and white kitten with large, expressive eyes and a pink nose sits on a wooden surface. The kitten has a pink bow around its neck. In the background, there are sprigs of lavender and a burlap-wrapped bundle of lavender flowers, against a soft pink backdrop](images/prompt.jpg)
 
 --- /task ---
 
