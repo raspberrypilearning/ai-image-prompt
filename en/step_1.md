@@ -7,6 +7,8 @@ By following these steps, you will learn how to create amazing images using an A
 ### You will need:
 Before you begin, you'll need access to an image generator. 
 
+If you are under the required age limits or prefer to host *your own* AI image generator on a Raspberry Pi, follow our instructions [here](insert placeholder URL){:target="_blank"}.
+
 A free image generator with no sign-up required is available at [Craiyon.com](www.craiyon.com), but requires you to be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your country or older.
 
 Other online tools are available, but require registration with a current email address. Some examples include:
@@ -16,4 +18,3 @@ Other online tools are available, but require registration with a current email 
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
 
-If you are under the required age limits or prefer to host your own local image generator, follow our instructions [here](insert placeholder URL){:target="_blank"}.
