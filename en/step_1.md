@@ -1,59 +1,19 @@
-## Introduction
+## What you will make
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Welcome to the exciting world of AI image generation! 
 
-### What you will make
+By following these steps, you will learn how to create amazing images using an AI image generator. This guide will help you start with simple ideas and turn them into detailed prompts that produce stunning visuals. You will explore how to add specific details, describe settings, include key elements, and think about colors, styles, and composition. Along the way, you'll test your prompts, make adjustments, and see how each change brings your vision to life.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+### You will need:
+Before you begin, you'll need access to an image generator. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+A free image generator with no sign-up required is available at [Craiyon.com](www.craiyon.com), but requires you to be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your country or older.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Other online tools are available, but require registration with a current email address. Some examples include:
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}
+- [Ideogram](www.ideogram.ai){:target="_blank"}
+- [ChatGPT](www.chat.openai.org){:target="_blank"}
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+**If you sign up for an account with one of these services, please remember to follow their safety policies.**
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+If you are under the required age limits or prefer to host your own local image generator, follow our instructions [here](insert placeholder URL){:target="_blank"}.
