@@ -1,4 +1,4 @@
-## Mastering Image Prompts: A Step-by-Step Guide
+## Prompting AI Image Generators: A Step-by-Step Guide
 
 ### Introduction
 Welcome to the world of image generation! Today, you'll explore how to turn simple prompts into detailed instructions that create amazing images. Ready to dive in? Let's get started!
