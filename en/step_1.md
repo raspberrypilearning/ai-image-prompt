@@ -13,8 +13,8 @@ A free image generator with no sign-up required is available at [Craiyon.com](ht
 
 Other online tools are available, but require registration with a current email address. Some examples include:
 - [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}
-- [Ideogram](www.ideogram.ai){:target="_blank"}
-- [ChatGPT](www.chat.openai.org){:target="_blank"}
+- [Ideogram](https://www.ideogram.ai){:target="_blank"}
+- [ChatGPT](https://www.chat.openai.org){:target="_blank"}
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
 
