@@ -8,7 +8,7 @@ Welcome to the world of image generation! Today, you'll explore how to turn simp
 
 **Start with a Simple Prompt**
 
-Begin with a basic idea. This is your starting point.
+Begin with a basic idea. Thais is your starting point.
 - Example: "A cat."
 
 Run this prompt in the image generator. See what it creates.

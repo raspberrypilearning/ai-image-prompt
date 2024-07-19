@@ -1,5 +1,7 @@
-## What next?
+## What can I do now?
 
 **You've completed the project 🎉**
 
-If you want to have more fun exploring Machine Learning and AI, then you could try out any of [these projects](xxxxx).
+You could [Install and Run an AI Chatbot on your Raspberry Pi](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}, or play [Chomp the Cheese](https://projects.raspberrypi.org/en/projects/chomp-the-cheese/){:target="_blank"} with your webcam!
+
+Or, you could try any of [these awesome AI projects](xxxxxx){:target="_blank"}! 
