@@ -1,7 +1,7 @@
-## What can I do now?
+## What next?
 
-**You've completed the project 🎉**
+**You have completed the project 🎉**
 
-You could [Install and Run an AI Chatbot on your Raspberry Pi](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}, or play [Chomp the Cheese](https://projects.raspberrypi.org/en/projects/chomp-the-cheese/){:target="_blank"} with your webcam!
+Next, you could [install and run an AI chatbot application on your Raspberry Pi](https://projects.raspberrypi.org/en/projects/llm-rpi){:target="_blank"}, or create a [Chomp the cheese](https://projects.raspberrypi.org/en/projects/chomp-the-cheese/){:target="_blank"} game to play with your webcam.
 
-Or, you could try any of [these awesome AI projects](xxxxxx){:target="_blank"}! 
+You could also try any of [these awesome AI and machine learning projects](xxxxxx){:target="_blank"}! 
