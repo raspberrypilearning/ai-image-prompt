@@ -28,9 +28,9 @@ If you are under the minimum age limits to use AI image generators that are avai
 A free image generator that does not require you to register is [Craiyon](https://www.craiyon.com){:target="_blank"}, but you must be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your country, or older, to use it.
 
 Other online tools are available, but require you to register with a current email address. Some examples include:
-- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"}
-- [Ideogram](https://www.ideogram.ai){:target="_blank"}
-- [ChatGPT](https://www.chat.openai.org){:target="_blank"}
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} [(T&C: 13 years of age)](https://www.adobe.com/uk/legal/terms.html#useof:~:text=You%20must%20be%2013%20or%20older%20to%20register%20for%20an%20individual%20Adobe%20ID.){:target="_blank"}
+- [Ideogram](https://www.ideogram.ai){:target="_blank"} [(T&C: 13 years of age)](https://ideogram.ai/legal/tos#:~:text=You%20must%20be%20thirteen%20(13)%20years%20of%20age%20or%20older%20to%20use%20the%20Services.){:target="_blank"}
+- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} [(T&C)](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"}
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
 

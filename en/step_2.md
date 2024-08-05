@@ -6,7 +6,7 @@ Follow these steps to explore how to turn simple prompts into detailed instructi
 
 **Start with a simple prompt**
 
-Begin with a basic idea. That is your starting point.
+Begin with a basic idea. That is your starting point - the object of the image.
 
 Example: "A cat."
 
@@ -34,7 +34,7 @@ Run this new prompt and compare it to the first image. How has it changed?
 
 **Describe the background**
 
-Where is the scene happening? Adding a setting makes your prompt more vivid.
+Where is the scene happening? Adding a setting makes your prompt more descriptive for the model, giving details to go around the object of the image.
 
 Example: "A fluffy white cat sitting on a windowsill **in a cozy living room**."
 
@@ -110,7 +110,7 @@ Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windo
 
 Run the updated prompt. Make any necessary changes until the image matches your idea.
 
-![A fluffy white cat with striking blue eyes and a pink nose sits on a windowsill, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a fluffy couch, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
 
 --- /task ---
 
