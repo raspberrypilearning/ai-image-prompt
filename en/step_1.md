@@ -6,6 +6,16 @@
     </iframe>    
 </html>
 
+--- collapse ---
+---
+title: No YouTube? Download the video!
+---
+
+You can download all the resources for this project, including the above video [by clicking here](https://projects.raspberrypi.org/en/projects/ai-image-prompt-go){:target="_blank"}. 
+
+
+--- /collapse ---
+
 Welcome to the exciting world of AI image generation! 
 
 By following the steps in this project, you will learn how to create amazing images using an AI image generator. 
