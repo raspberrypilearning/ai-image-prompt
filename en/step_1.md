@@ -8,10 +8,10 @@
 
 --- collapse ---
 ---
-title: No YouTube? Download the video!
+title: No access to YouTube? Download the video!
 ---
 
-You can download all the resources for this project, including the above video [by clicking here](https://projects.raspberrypi.org/en/projects/ai-image-prompt-go){:target="_blank"}. 
+You can [download all the resources for this project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt-go){:target="_blank"}, including the above video.
 
 
 --- /collapse ---
