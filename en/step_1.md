@@ -1,3 +1,7 @@
+<p style='border-left: solid; border-width:10px; border-color: #ff0000; background-color: #ffcccc; padding: 10px;'>
+This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+</p>
+
 ## What you will make
 
 
@@ -44,3 +48,35 @@ Other online tools are available, but require you to register with a current ema
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
 
+--- /collapse ---
+
+[Ollama](https://ollama.com){:target="_blank"} is an open-source tool designed to run large language models (LLMs) on your Raspberry pi itself, rather than over the internet.
+
+By following these steps, you will transform your Raspberry Pi into a powerful AI assistant using Ollama. You will install Ollama along with its WebUI interface, pull a suitable AI model, and interact with it to perform various tasks such as answering questions, generating text, or engaging in conversation. 
+
+This setup will enable you to explore and use advanced generative AI capabilities directly from your Raspberry Pi.
+
+### You will need:
+- A Raspberry Pi 4 or 5 with a micro SD card of **at least** 32Gb storage.
+- Access to an internet connection for the Raspberry Pi.
+
+--- collapse ---
+---
+title:  Why do we recommend older learners use this resource?
+---
+
+If you're under 13 years old, it's important to understand how to keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy.
+
+When you use generative AI projects on a Raspberry Pi, all of the work happens right on your device. **Your personal data stays on your computer and never leaves it.** This keeps your information safe and secure.
+
+You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+
+**With the Raspberry Pi, everything stays on your own device,** so you don’t have to worry about your data being sent elsewhere. This lets you explore and learn about AI safely. If you need help, please ask a parent, guardian, or teacher to guide you.
+
+It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t.** So, it’s important to **think carefully about the AI’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+
+**Always look at AI-generated content with a careful and thoughtful mind.**
+
+Enjoy learning and creating with Generative AI!
+
+--- /collapse ---
