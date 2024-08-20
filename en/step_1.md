@@ -48,13 +48,12 @@ Other online tools are available, but require you to register with a current ema
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
 
---- /collapse ---
 
-[Ollama](https://ollama.com){:target="_blank"} is an open-source tool designed to run large language models (LLMs) on your Raspberry pi itself, rather than over the internet.
+[Stable Diffusion](https://stablediffusionweb.com){:target="_blank"} is an open-source tool that allows you to generate high-quality images using AI, directly on your Raspberry Pi.
 
-By following these steps, you will transform your Raspberry Pi into a powerful AI assistant using Ollama. You will install Ollama along with its WebUI interface, pull a suitable AI model, and interact with it to perform various tasks such as answering questions, generating text, or engaging in conversation. 
+By following these steps, you'll turn your Raspberry Pi into a creative AI powerhouse using Stable Diffusion. You'll install the Stable Diffusion software along with its user-friendly interface, load a suitable AI model, and use it to create stunning images based on text prompts.
 
-This setup will enable you to explore and use advanced generative AI capabilities directly from your Raspberry Pi.
+This setup will allow you to explore and experiment with advanced generative AI techniques, all from the convenience of your Raspberry Pi, empowering you to create unique visual content without needing to rely on online services.
 
 ### You will need:
 - A Raspberry Pi 4 or 5 with a micro SD card of **at least** 32Gb storage.
