@@ -12,10 +12,10 @@ This learning resource is not recommended for learners below the age of 13. We e
 
 --- collapse ---
 ---
-title: No YouTube? Download the video!
+title: No access to YouTube? Download the video!
 ---
 
-You can download all the resources for this project, including the above video [by clicking here](https://projects.raspberrypi.org/en/projects/ai-image-prompt-go){:target="_blank"}. 
+You can [download all the resources for this project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt-go){:target="_blank"}, including the above video.
 
 
 --- /collapse ---
@@ -39,12 +39,12 @@ For this project, you will need access to an AI image generator.
 
 If you are under the minimum age limits to use AI image generators that are available online, or if you would prefer to host **your own** AI image generator on a Raspberry Pi computer, [follow our instructions here](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-A free image generator that does not require you to register is [Craiyon](https://www.craiyon.com){:target="_blank"}, but you must be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your country, or older, to use it.
+A free image generator that does not require you to register is [Craiyon](https://www.craiyon.com){:target="_blank"}, but you must be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your jurisdiction, or older, to use it ([see the terms](https://www.craiyon.com/terms){:target="_blank"} for more information).
 
 Other online tools are available, but require you to register with a current email address. Some examples include:
-- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} [(T&C: 13 years of age)](https://www.adobe.com/uk/legal/terms.html#useof:~:text=You%20must%20be%2013%20or%20older%20to%20register%20for%20an%20individual%20Adobe%20ID.){:target="_blank"}
-- [Ideogram](https://www.ideogram.ai){:target="_blank"} [(T&C: 13 years of age)](https://ideogram.ai/legal/tos#:~:text=You%20must%20be%20thirteen%20(13)%20years%20of%20age%20or%20older%20to%20use%20the%20Services.){:target="_blank"}
-- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} [(T&C)](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"}
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (minimum age of 13, and if you are not of legal age to enter into the terms, you need permission from a parent/guardian to do so — [see the terms](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} for more information)
+- [Ideogram](https://www.ideogram.ai){:target="_blank"} (minimum age of 13, and if you are under the age of majority in your jurisdiction, a parent/guardian must accept the terms on your behalf — [see the terms](https://ideogram.ai/legal/tos){:target="_blank"} for more information)
+- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([see the terms](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
 
