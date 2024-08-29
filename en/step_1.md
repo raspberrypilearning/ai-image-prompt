@@ -65,10 +65,10 @@ If you're under 13 years old, it's important to understand how to keep your pers
 
 You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
 
-It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t.** So, it’s important to **think carefully about the AI’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
 
 **Always look at AI-generated content with a careful and thoughtful mind.**
 
-Enjoy learning and creating with Generative AI!
+Enjoy learning and creating with generative AI!
 
 --- /collapse ---
