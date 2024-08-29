@@ -48,14 +48,6 @@ Other online tools are available, but require you to register with a current ema
 
 **If you sign up for an account with one of these services, please remember to follow their safety policies.**
 
-
-[Stable Diffusion](https://stablediffusionweb.com){:target="_blank"} is an open-source tool that allows you to generate high-quality images using AI, directly on your Raspberry Pi.
-
-
-### You will need:
-- A Raspberry Pi 4 or 5 with a micro SD card of **at least** 32Gb storage.
-- Access to an internet connection for the Raspberry Pi.
-
 --- collapse ---
 ---
 title:  Why do we recommend older learners use this project?
