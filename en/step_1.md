@@ -4,21 +4,7 @@ This learning resource is not recommended for learners below the age of 13. We e
 
 ## What you will make
 
-
-<html>
-    <iframe style="max-width: 448px;" width="100%" height="796" src="https://www.youtube.com/embed/n-BejB5xZ0o?rel=0&cc_load_policy=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-    </iframe>    
-</html>
-
---- collapse ---
----
-title: No access to YouTube? Download the video!
----
-
-You can [download all the resources for this project here](https://projects.raspberrypi.org/en/projects/ai-image-prompt-go){:target="_blank"}, including the above video.
-
-
---- /collapse ---
+![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
 
 Welcome to the exciting world of AI image generation! 
 
