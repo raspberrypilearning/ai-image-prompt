@@ -7,13 +7,13 @@ copyedit: false
 last_tested: "2022-05-19"
 steps:
   - 
-    title: What you will make
+    title: Що ти зробиш
   - 
     title: Prompt an AI image generator
     completion:
       - engaged
       - internal
   - 
-    title: What can you do now?
+    title: Що ти тепер вмієш?
     completion:
       - external
