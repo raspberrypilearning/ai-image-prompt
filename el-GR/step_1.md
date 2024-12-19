@@ -2,7 +2,7 @@
 This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
 </p>
 
-## What you will make
+## Εισαγωγή
 
 ![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
 
@@ -18,7 +18,7 @@ This project will help you start with simple ideas and turn them into detailed p
 
 \--- /collapse ---
 
-### What you will need
+### Τι θα χρειαστείς
 
 For this project, you will need access to an AI image generator.
 
