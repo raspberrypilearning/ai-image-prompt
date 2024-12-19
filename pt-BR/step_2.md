@@ -114,4 +114,4 @@ Run the updated prompt. Make any necessary changes until the image matches your 
 
 \--- /task ---
 
-Well done! You have learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
+Muito bem! You have learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
