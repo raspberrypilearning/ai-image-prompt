@@ -1,6 +1,6 @@
-title: Prompt an AI image generator
+title: Geef een aanwijzing aan een AI afbeeldingsgenerator
 hero_image: images/banner.png
-description: Explore how to create good prompts for AI image generators
+description: Ontdek hoe je goede prompts voor AI afbeeldingsgeneratoren maakt
 version: 4
 listed: false
 copyedit: false
@@ -9,7 +9,7 @@ steps:
   - 
     title: Wat ga je maken
   - 
-    title: Prompt an AI image generator
+    title: Geef een aanwijzing aan een AI afbeeldingsgenerator
     completion:
       - engaged
       - internal
