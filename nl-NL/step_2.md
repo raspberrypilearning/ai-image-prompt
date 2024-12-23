@@ -1,4 +1,4 @@
-## Prompt an AI image generator
+## Geef een aanwijzing aan een AI afbeeldingsgenerator
 
 Follow these steps to explore how to turn simple prompts into detailed instructions to help you create amazing images.
 
@@ -110,7 +110,7 @@ Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windo
 
 Run the updated prompt. Make any necessary changes until the image matches your idea.
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank en op de rugleuning van een bank, naast een plantje in een decoratieve metalen overpot. De vensterbank maakt deel uit van een gezellig interieur, met een bloemenkussen, een groene hangplant en legplanken. Door het raam is een gebouw te zien. Op de voorgrond van de afbeelding staat de tekst "HOME Hweet SWEET Home" in een elegante stijl, met wat versieringen.](images/prompt8.jpg)
 
 \--- /task ---
 
