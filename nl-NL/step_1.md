@@ -1,32 +1,32 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Deze leerbron wordt niet aanbevolen voor leerlingen jonger dan 13 jaar. Wij moedigen gebruikers aan om verantwoord met dit materiaal om te gaan en indien nodig advies te vragen aan een volwassene die zij vertrouwen.
 </p>
 
 ## Wat ga je maken
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank en op de rugleuning van een bank, naast een plantje in een decoratieve metalen overpot. De vensterbank maakt deel uit van een gezellig interieur, met een bloemenkussen, een groene hangplant en legplanken. Door het raam is een gebouw te zien. Op de voorgrond van de afbeelding staat de tekst "HOME Hweet SWEET Home" in een elegante stijl, met wat versieringen.](images/prompt8.jpg)
 
-Welcome to the exciting world of AI image generation!
+Welkom in de spannende wereld van AI beeldgeneratie!
 
-By following the steps in this project, you will learn how to create amazing images using an AI image generator.
+Door de stappen in dit project te volgen, leer je hoe je geweldige afbeeldingen kunt maken met behulp van een AI-afbeeldingsgenerator.
 
 ## --- collapse ---
 
-## title: More detail
+## title: Meer details
 
-This project will help you start with simple ideas and turn them into detailed prompts that you can use to produce stunning images. You will explore how to add specific details; describe settings; include key elements; and think about colours, styles, and composition. Along the way, you will test your prompts, make adjustments, and see how each change helps you create your image.
+Dit project helpt je om te beginnen met eenvoudige ideeën en deze om te zetten in gedetailleerde prompts die je kunt gebruiken om verbluffende afbeeldingen te produceren. Je leert hoe je specifieke details toevoegt, hoe je omgevingen beschrijft, hoe je belangrijke elementen opneemt en hoe je nadenkt over kleuren, stijlen en compositie. Onderweg zal je je prompts testen, aanpassingen maken en zien hoe elke wijziging je helpt om je afbeelding te maken.
 
 \--- /collapse ---
 
 ### Wat je nodig hebt
 
-For this project, you will need access to an AI image generator.
+Voor dit project heb je toegang nodig tot een AI-afbeeldingsgenerator.
 
-If you are under the minimum age limits to use AI image generators that are available online, or if you would prefer to host **your own** AI image generator on a Raspberry Pi computer, [follow our instructions here](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
+Als je niet voldoet aan de minimum leeftijdsgrenzen om AI-afbeeldingsgeneratoren te gebruiken die online beschikbaar zijn, of liever **je eigen** AI beeldgenerator host op een Raspberry Pi, [volg dan hier onze instructies](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Free Online Image Generators
+#### Gratis online afbeeldinggeneratoren
 
-A free image generator that does not require you to register is [Craiyon](https://www.craiyon.com){:target="_blank"}, but you must be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your jurisdiction, or older, to use it ([see the terms](https://www.craiyon.com/terms){:target="_blank"} for more information).
+Een gratis afbeeldingengenerator waarvoor je je niet hoeft te registreren is [Craiyon](https://www.craiyon.com){:target="_blank"}, maar je moet de [meerderjarige leeftijd](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in jouw rechtsgebied hebben bereikt, of ouder zijn, om deze te kunnen gebruiken ([zie de voorwaarden](https://www.craiyon.com/terms){:target="_blank"} voor meer informatie).
 
 Other online tools are available, but require you to register with a current email address. Some examples include:
 
