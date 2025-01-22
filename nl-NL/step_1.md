@@ -4,7 +4,7 @@ Deze leerbron wordt niet aanbevolen voor leerlingen jonger dan 13 jaar. Wij moed
 
 ## Wat ga je maken
 
-![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank en op de rugleuning van een bank, naast een plantje in een decoratieve metalen overpot. De vensterbank maakt deel uit van een gezellig interieur, met een bloemenkussen, een groene hangplant en legplanken. Door het raam is een gebouw te zien. Op de voorgrond van de afbeelding staat de tekst "HOME Hweet SWEET Home" in een elegante stijl, met wat versieringen.](images/prompt8.jpg)
+![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank en op de rugleuning van een bank, naast een plantje in een decoratieve metalen pot. De vensterbank maakt deel uit van een gezellig interieur, met een bloemenkussen, een groene hangplant en legplanken. Door het raam is een gebouw te zien. Op de voorgrond van de afbeelding staat de tekst "HOME Hweet SWEET Home" in een elegante stijl, met wat versieringen.](images/prompt8.jpg)
 
 Welkom in de spannende wereld van AI beeldgeneratie!
 
@@ -28,26 +28,26 @@ Als je niet voldoet aan de minimum leeftijdsgrenzen om AI-afbeeldingsgeneratoren
 
 Een gratis afbeeldingengenerator waarvoor je je niet hoeft te registreren is [Craiyon](https://www.craiyon.com){:target="_blank"}, maar je moet de [meerderjarige leeftijd](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in jouw rechtsgebied hebben bereikt, of ouder zijn, om deze te kunnen gebruiken ([zie de voorwaarden](https://www.craiyon.com/terms){:target="_blank"} voor meer informatie).
 
-Other online tools are available, but require you to register with a current email address. Some examples include:
+Er zijn ook andere online tools beschikbaar, maar hiervoor moet je je registreren met een actueel e-mailadres. Enkele voorbeelden zijn:
 
-- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (minimum age of 13, and if you are not of legal age to enter into the terms, you need permission from a parent/guardian to do so — [see the terms](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} for more information)
-- [Ideogram](https://www.ideogram.ai){:target="_blank"} (minimum age of 13, and if you are under the age of majority in your jurisdiction, a parent/guardian must accept the terms on your behalf — [see the terms](https://ideogram.ai/legal/tos){:target="_blank"} for more information)
-- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([see the terms](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (minimumleeftijd is 13 jaar, en als je niet de wettelijke leeftijd hebt om de voorwaarden te accepteren, heb je toestemming nodig van een ouder/voogd om dit te doen — [zie de voorwaarden](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} voor meer informatie)
+- [Ideogram](https://www.ideogram.ai){:target="_blank"} (minimumleeftijd van 13, en als je jonger bent dan de meerderjarige leeftijd in je jurisdictie, moet een ouder/voogd de voorwaarden namens jou accepteren — [zie de voorwaarden](https://ideogram.ai/legal/tos){:target="_blank"} voor meer informatie)
+- [Stabile Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([zie de voorwaarden](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
 
-**If you sign up for an account with one of these services, please remember to follow their safety policies.**
+**Als je je registreert voor een account bij een van deze diensten, vergeet dan niet om hun veiligheidsbeleid te volgen.**
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this project?
+## title: Waarom raden wij oudere leerlingen aan dit project te gebruiken?
 
-It's important to understand how you can keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy, which is why we only recommend this project if you're over 13 years old.
+Het is belangrijk om te begrijpen hoe je je persoonlijke gegevens veilig kunt bewaren. De Raspberry Pi Foundation hecht veel waarde aan de bescherming van jouw gegevens en privacy, daarom raden wij dit project alleen aan als je ouder bent dan 13 jaar.
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+Je heeft misschien gemerkt dat veel onlinediensten vereisen dat gebruikers minimaal 13 jaar oud zijn. Dat komt omdat zij de door jou verstrekte gegevens, waaronder ook persoonlijke gegevens, verwerken en opslaan. Hoewel deze diensten strikte regels hanteren om jouw gegevens te beschermen, kan het versturen van informatie via internet soms minder veilig zijn.
 
-It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+Het is ook belangrijk om te weten dat generatieve AI soms **inhoud kan maken die niet nauwkeurig, juist of gepast is**. Deze AI-modellen kunnen soms 'hallucineren' en **informatie produceren die waar lijkt, maar dat niet is**. Het is dus belangrijk om **goed na te denken over de output van de AI-applicatie en deze zelf nog eens goed te controleren**. Als je werkt met generatieve AI, zorg ervoor dat je de informatie checkt en betrouwbare bronnen vraagt als je niet zeker bent.
 
-**Always look at AI-generated content with a careful and thoughtful mind.** If you need help, please ask a parent, guardian, or teacher to guide you.
+**Kijk altijd zorgvuldig en weloverwogen naar door AI gegenereerde content.** Als je hulp nodig hebt, vraag dan een ouder, verzorger of leraar om je te begeleiden.
 
-Enjoy learning and creating with generative AI!
+Veel plezier met leren en creëren met generatieve AI!
 
 \--- /collapse ---
