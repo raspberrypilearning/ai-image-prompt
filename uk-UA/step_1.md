@@ -1,53 +1,53 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Цей навчальний ресурс не рекомендується для учнів та учениць віком до 13 років. Ми заохочуємо користувачів відповідально ставитися до цього матеріалу та за потреби звертатися за порадою до дорослих, яким вони довіряють.
 </p>
 
 ## Що ти зробиш
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Пухнаста біла кішка з незвичайно блакитними очима та рожевим носиком сидить на поверхні між підвіконням та спинкою дивана, поруч із рослиною у декоративному металевому горщику. Підвіконня є частиною затишного інтерʼєру з подушкою в квітки, зеленою вʼюнкою рослиною і полицями. За вікном видно будівлю. На передньому плані зображення розміщено текст із узористим написом «HOME Hweet SWEET Home» вишуканим шрифтом. Ця англійська фраза з помилкою означає «рідна оселя».](images/prompt8.jpg)
 
-Welcome to the exciting world of AI image generation!
+Ласкаво просимо до захопливого світу зображень, згенерованих штучним інтелектом!
 
-By following the steps in this project, you will learn how to create amazing images using an AI image generator.
+У цьому проєкті ти навчишся створювати дивовижні зображення за допомогою генератора зображень ШІ.
 
 ## --- collapse ---
 
-## title: More detail
+## title: Детальніше
 
-This project will help you start with simple ideas and turn them into detailed prompts that you can use to produce stunning images. You will explore how to add specific details; describe settings; include key elements; and think about colours, styles, and composition. Along the way, you will test your prompts, make adjustments, and see how each change helps you create your image.
+Цей проєкт допоможе тобі почати з простих ідей і перетворити їх на детальні запити, які можна використовувати для створення приголомшливих зображень. Ти дізнаєшся, як додати конкретні деталі, описати фон, вказати головні елементи й використовувати кольори, стилі та композицію. Водночас ти тестуватимеш свої запити, коригуватимеш їх та побачиш, як кожна зміна допомагає тобі створити зображення.
 
 \--- /collapse ---
 
 ### Що тобі знадобиться
 
-For this project, you will need access to an AI image generator.
+Для цього проєкту тобі знадобиться доступ до генератора зображень ШІ.
 
-If you are under the minimum age limits to use AI image generators that are available online, or if you would prefer to host **your own** AI image generator on a Raspberry Pi computer, [follow our instructions here](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
+Якщо тобі менше років, ніж потрібно для використання онлайн-генераторів зображень ШІ, або ж ти бажаєш побудувати **власний** генератор зображень ШІ на компʼютері Raspberry Pi, [переглянь цей проєкт](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Free Online Image Generators
+#### Безплатні онлайн-генератори зображень
 
-A free image generator that does not require you to register is [Craiyon](https://www.craiyon.com){:target="_blank"}, but you must be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your jurisdiction, or older, to use it ([see the terms](https://www.craiyon.com/terms){:target="_blank"} for more information).
+[Craiyon](https://www.craiyon.com){:target="_blank"} — один із безплатних генераторів зображень, для якого не потрібно реєструватися, але тобі повинно бути [18 років] або більше, щоб ним користуватися ([дивись умови](https://www.craiyon.com/terms){:target="_blank"}, щоб дізнатися більше).
 
-Other online tools are available, but require you to register with a current email address. Some examples include:
+Існують інші онлайн-інструменти, але вони потребують реєстрації через електронну адресу. Ось деякі приклади:
 
-- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (minimum age of 13, and if you are not of legal age to enter into the terms, you need permission from a parent/guardian to do so — [see the terms](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} for more information)
-- [Ideogram](https://www.ideogram.ai){:target="_blank"} (minimum age of 13, and if you are under the age of majority in your jurisdiction, a parent/guardian must accept the terms on your behalf — [see the terms](https://ideogram.ai/legal/tos){:target="_blank"} for more information)
-- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([see the terms](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (мінімальний вік 13 років; якщо ти молодше, тобі потрібен дозвіл від батьків або опікунів, щоб це зробити — [переглянь умови](https://www.adobe.com/ua/legal/terms.html){:target="_blank"}, щоб дізнатися більше)
+- [Ideogram](https://www.ideogram.ai){:target="_blank"} (мінімальний вік 13 років; якщо ти ще не досяг/-ла повноліття у своїй країні, один із батьків/опікунів має прийняти умови від твого імені — [переглянь умови](https://ideogram.ai/legal/tos){:target="_blank"}, щоб дізнатися більше)
+- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([переглянь умови](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
 
-**If you sign up for an account with one of these services, please remember to follow their safety policies.**
+**Якщо ти реєструєшся на одному з цих сайтів, не забувай дотримуватися його політики безпеки.**
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this project?
+## title: Чому ми рекомендуємо старшим учням й ученицям використовувати цей проєкт?
 
-It's important to understand how you can keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy, which is why we only recommend this project if you're over 13 years old.
+Важливо розуміти, як захистити свою особисту інформацію. Raspberry Pi Foundation дуже уважно ставиться до захисту твоїх даних і конфіденційності, тому ми рекомендуємо цей проєкт лише тим, хто досяг 13 років.
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+Можливо, ти знаєш, що багато онлайн-сервісів вимагають від користувачів мати принаймні 13 років. Це тому, що вони обробляють і зберігають надані тобою дані, які можуть включати особисту інформацію. Хоча ці служби дотримуються суворих правил захисту твоїх даних, надсилання інформації через інтернет іноді може бути небезпечним.
 
-It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+Також важливо знати, що генеративний штучний інтелект іноді може створювати **контент, який не є правдивим, обʼєктивним або прийнятним**. Ці моделі штучного інтелекту іноді можуть «галюцинувати» та **придумувати інформацію, яка звучить правдивою, але не є такою**. Отже, важливо **уважно переглядати дані, отримані від ШІ, та перевіряти їх**. Коли ти працюєш з генеративним штучним інтелектом, обов’язково перевіряй інформацію у надійних джерелах, якщо маєш у ній сумніви.
 
-**Always look at AI-generated content with a careful and thoughtful mind.** If you need help, please ask a parent, guardian, or teacher to guide you.
+**Завжди уважно та вдумливо сприймай контент, створений штучним інтелектом.** Якщо тобі потрібна допомога, попроси про неї батьків, опікунів або вчителів.
 
-Enjoy learning and creating with generative AI!
+А тепер — до навчання і творчості з генеративним штучним інтелектом!
 
 \--- /collapse ---
