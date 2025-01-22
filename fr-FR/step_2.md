@@ -1,117 +1,117 @@
-## Prompt an AI image generator
+## Donner un prompt à un générateur d'images IA
 
-Follow these steps to explore how to turn simple prompts into detailed instructions to help you create amazing images.
+Suis ces étapes pour découvrir comment transformer des prompts simples en instructions détaillées pour t'aider à créer des images étonnantes.
 
 \--- task ---
 
-**Start with a simple prompt**
+**Commencer avec un prompt simple**
 
-Begin with a basic idea. That is your starting point — the object of the image.
+Commence par une idée de base. C'est ton point de départ, l'objet de l'image.
 
-Example: "A cat."
+Exemple : « Un chat. »
 
-Run this prompt in the image generator. See what it produces.
+Exécute ce prompt dans le générateur d'images. Vois ce qu'il produit.
 
-![An orange and white kitten with large, expressive eyes and a pink nose lies on a wooden surface next to some sprigs of lavender. The kitten has a pink bow around its neck. In the background, there is a burlap-wrapped pot of lavender, against a soft pink backdrop.](images/prompt.jpg)
+![Un chaton orange et blanc aux grands yeux expressifs et au nez rose repose sur une surface en bois à côté de quelques brins de lavande. Le chaton a un nœud rose autour du cou. À l'arrière-plan, un pot de lavande enveloppé de toile de jute se détache sur un arrière-plan rose pâle.](images/prompt.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Add specific details**
+**Ajouter des détails spécifiques**
 
-Think about the details. What kind of cat? What is it doing?
+Pense aux détails. Quel genre de chat ? Que fait-il ?
 
-Example: "A **fluffy white** cat **sitting on a windowsill**."
+Exemple : « Un chat blanc et à poil long **assis sur un rebord de fenêtre**. »
 
-Run this new prompt and compare it to the first image. How has it changed?
+Exécute ce nouveau prompt et compare-le à la première image. En quoi cela a-t-il changé ?
 
-![A fluffy white cat with large, round, blue eyes and a pink nose sits on a windowsill. The cat's fur is long and soft. There are raindrops on the window, and through the window, there is a view of a building. On the windowsill behind the cat, there is a small potted plant.](images/prompt2.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Describe the background**
-
-Where is the scene happening? Adding a setting makes your prompt more descriptive for the model, giving details to go around the object of the image.
-
-Example: "A fluffy white cat sitting on a windowsill **in a cozy living room**."
-
-Run the updated prompt. Notice the new elements that appear.
-
-![A fluffy white cat with striking blue eyes and a pink nose sits on a windowsill. Sunlight streams through the window. The cat is sitting on a thin mat, and next to the cat is a small plant in a burlap-wrapped pot. The background features a cozy room with curtains, a sofa with cushions, and shelves with items such as a lamp and a potted plant.](images/prompt3.jpg)
+![Un chat blanc à poil long aux grands yeux bleus ronds et au nez rose est assis sur le rebord d'une fenêtre. La fourrure du chat est longue et douce. Il y a des gouttes de pluie sur la fenêtre, et par la fenêtre, il y a une vue sur un bâtiment. Sur le rebord de la fenêtre derrière le chat, il y a une petite plante en pot.](images/prompt2.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Include key elements**
+**Décrire l'arrière-plan**
 
-What other things should be in the scene?
+Où se déroule la scène ? L'ajout d'un paramètre rend ton prompt plus descriptif pour le modèle, donnant des détails pour contourner l'objet de l'image.
 
-Example: "A fluffy white cat sitting on a windowsill **with a potted plant next to it**, in a cozy living room."
+Exemple : « Un chat blanc à poil long assis sur un rebord de fenêtre **dans un salon chaleureux**. »
 
-Run the updated prompt. How do the extra details change the image?
+Exécute le prompt mis à jour. Remarque les nouveaux éléments qui apparaissent.
 
-![A fluffy white cat with green eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a small succulent and a larger leafy plant. The background features a cozy interior with dark curtains, a green cushion, and a knitted blanket.](images/prompt4.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Specify colours and styles**
-
-Colours and styles add character to your image. What mood or style do you want?
-
-Example: "A fluffy white cat sitting on a windowsill with a **green** potted plant next to it, in a cozy, **vintage-style** living room."
-
-Run the prompt. See how the colours and style affect the image.
-
-![A fluffy white cat with dark eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a spiky succulent, a small leafy plant, and a larger plant with broad leaves in a decorative pot. The window behind the cat is old and slightly frosted, and through the window, a brick wall is visible. The background features a cozy interior with light curtains, a cushion, and shelves.](images/prompt5.jpg)
+![Un chat blanc à poil long aux yeux bleus et au nez rose est assis sur le rebord d'une fenêtre. La lumière du soleil passe à travers la fenêtre. Le chat est assis sur un tapis fin et à côté du chat se trouve une petite plante dans un pot enveloppé de toile de jute. En arrière-plan, tu peux voir une pièce chaleureuse avec des rideaux, un canapé avec des coussins et des étagères avec des objets tels qu'une lampe et une plante en pot.](images/prompt3.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Think about composition**
+**Inclure les éléments clés**
 
-How should the image be composed? Is it a close-up or a wide shot?
+Quelles autres choses devraient être dans la scène ?
 
-Example: "**A close-up of** a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room."
+Exemple : « Un chat blanc à poil long assis sur un rebord de fenêtre **avec une plante en pot à côté**, dans un salon chaleureux. »
 
-Run the prompt and see how changing the composition changes the focus of the image.
+Exécute le prompt mis à jour. Comment les détails supplémentaires changent-ils l'image ?
 
-![A fluffy white cat with green eyes and a pink nose sits on a blanket on a windowsill. The windowsill is decorated with several potted plants, including a trailing succulent in a green pot and a hanging plant. The background features a cozy interior with a green cushion, a lamp, and another plant.](images/prompt6.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Add text if you like**
-
-If you want text in the image, include what it should say and how it should look.
-
-Example: "A close-up of a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, **with the text 'Home Sweet Home' in cursive font at the bottom**."
-
-Run the prompt. Check if the text appears as you wanted and fits well with the image.
-
-![A fluffy white cat with green eyes and a pink nose sits on a thin mat on a windowsill, looking out of the window. The windowsill is decorated with potted plants, including a succulent in a green pot. Through the window, there is a view of a building with multiple windows. In the foreground of the image, there is text that reads "SUSCET Home sweet Home" in an elegant style, with some decoration. The overall scene conveys a cozy and home-like atmosphere.](images/prompt7.jpg)
+![Un chat blanc à poil long aux yeux verts et au nez rose est assis sur le rebord d'une fenêtre. Le rebord de la fenêtre est décoré de plusieurs plantes en pot, dont une petite plante succulente et une plante feuillue plus grande. En arrière-plan, tu peux voir un intérieur chaleureux avec des rideaux sombres, un coussin vert et une couverture tricotée.](images/prompt4.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Change and refine**
+**Spécifier les couleurs et les styles**
 
-Test your prompt with the image generator. If it is not perfect, adjust the details and try again. Throughout the previous images, you may have noticed the cat's eyes changing colour. You could fix that now.
+Les couleurs et les styles ajoutent du caractère à ton image. Quelle ambiance ou quel style désires-tu ?
 
-Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, with the text 'Home Sweet Home' in cursive font at the bottom."
+Exemple : « Un chat blanc à poil long assis sur le rebord d'une fenêtre avec une plante en pot **verte** à côté de lui, dans un salon chaleureux **de style vintage**.
 
-Run the updated prompt. Make any necessary changes until the image matches your idea.
+Exécute le prompt. Vois comment les couleurs et le style affectent l'image.
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Un chat blanc à poil long aux yeux sombres et au nez rose est assis sur le rebord d'une fenêtre. Le rebord de la fenêtre est décoré de plusieurs plantes en pot, dont une plante succulente épineuse, une petite plante feuillue et une plante plus grande avec de larges feuilles dans un pot décoratif. La fenêtre derrière le chat est vieille et légèrement givrée, et à travers la fenêtre, un mur de briques est visible. En arrière-plan, tu peux voir un intérieur chaleureux avec des rideaux clairs, un coussin et des étagères.](images/prompt5.jpg)
 
 \--- /task ---
 
-Bien joué ! You have learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
+\--- task ---
+
+**Penser à la composition**
+
+Comment l'image doit-elle être composée ? Est-ce un gros plan ou un plan large ?
+
+Exemple : « **Un gros plan** d'un chat blanc à poil long assis sur un rebord de fenêtre avec une plante verte en pot à côté de lui, dans un salon chaleureux de style vintage ».
+
+Exécute le prompt et vois comment la modification de la composition modifie la mise au point de l’image.
+
+![Un chat blanc à poil long aux yeux verts et au nez rose est assis sur une couverture sur le rebord d'une fenêtre. Le rebord de la fenêtre est décoré de plusieurs plantes en pot, dont une succulente dans un pot vert et une plante suspendue. En arrière-plan, tu peux voir un intérieur chaleureux avec un coussin vert, une lampe et une autre plante.](images/prompt6.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Ajouter du texte si nécessaire**
+
+Si tu souhaites que l'image contienne du texte, indique son contenu et son aspect.
+
+Exemple : « Un gros plan d'un chat blanc à poil long assis sur un rebord de fenêtre avec une plante verte en pot à côté, dans un salon chaleureux de style vintage, **avec le texte "Home Sweet Home" en police cursive en bas**. »
+
+Exécute le prompt. Vérifie si le texte apparaît comme tu le souhaites et qu'il correspond bien à l'image.
+
+![Un chat blanc à poil long aux yeux verts et au nez rose est assis sur un tapis fin sur un rebord de fenêtre, regardant par la fenêtre. Le rebord de la fenêtre est décoré de plantes en pot, dont une succulente dans un pot vert. À travers la fenêtre, on a une vue sur un bâtiment avec plusieurs fenêtres. Au premier plan de l'image, on peut lire "SUSCET Home sweet Home" dans un style élégant, avec quelques décorations. La scène générale dégage une atmosphère chaleureuse et familiale.](images/prompt7.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Changer et affiner**
+
+Teste ton prompt avec le générateur d'images. Si ce n'est pas parfait, ajuste les détails et réessaie. Tout au long des images précédentes, tu as peut-être remarqué que les yeux du chat changent de couleur. Tu peux corriger cela maintenant.
+
+Exemple : « Gros plan d'un chat blanc à poil long **aux yeux bleus** assis sur un rebord de fenêtre avec une plante verte en pot à côté de lui, dans un salon chaleureux de style vintage, avec le texte "Home Sweet Home" en caractères cursifs en bas de page. »
+
+Exécute le prompt mis à jour. Fais les modifications nécessaires jusqu'à ce que l'image corresponde à ton idée.
+
+![Un chat blanc à poil long aux yeux bleus et au nez rose est assis sur un rebord de fenêtre et sur le dossier d'un canapé, à côté d'une plante en pot dans un récipient métallique décoratif. Le rebord de la fenêtre fait partie d'un intérieur chaleureux, avec un coussin floral, une plante verte rampante et des étagères. À travers la fenêtre, un bâtiment est visible. Au premier plan de l'image, on peut lire "HOME Hweet SWEET Home" dans un style élégant, avec quelques décorations.](images/prompt8.jpg)
+
+\--- /task ---
+
+Bien joué ! Tu as appris à transformer une idée simple en un prompt d'image détaillé. Continue à expérimenter et amuse-toi à créer tes propres images uniques !
