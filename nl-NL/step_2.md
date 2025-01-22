@@ -1,117 +1,117 @@
 ## Geef een aanwijzing aan een AI afbeeldingsgenerator
 
-Follow these steps to explore how to turn simple prompts into detailed instructions to help you create amazing images.
+Volg deze stappen om te ontdekken hoe je eenvoudige aanwijzingen in gedetailleerde instructies kunt veranderen om je te helpen fantastische afbeeldingen te maken.
 
 \--- task ---
 
-**Start with a simple prompt**
+**Begin met een eenvoudige opdracht**
 
-Begin with a basic idea. That is your starting point — the object of the image.
+Begin met een simpel idee. Dat is je startpunt – het doel van de afbeelding.
 
-Example: "A cat."
+Voorbeeld: "Een kat."
 
-Run this prompt in the image generator. See what it produces.
+Voer deze prompt uit in de afbeeldingsgenerator. Kijk wat het oplevert.
 
-![An orange and white kitten with large, expressive eyes and a pink nose lies on a wooden surface next to some sprigs of lavender. The kitten has a pink bow around its neck. In the background, there is a burlap-wrapped pot of lavender, against a soft pink backdrop.](images/prompt.jpg)
+![Een oranje en wit katje met grote, expressieve ogen en een roze neusje ligt op een houten oppervlak naast wat lavendeltakjes. Het katje heeft een roze strik om zijn nek. Op de achtergrond staat een in jute gewikkelde pot met lavendel, tegen een zachtroze achtergrond.](images/prompt.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Add specific details**
+**Voeg specifieke details toe**
 
-Think about the details. What kind of cat? What is it doing?
+Denk na over de details. Wat voor soort kat? Wat doet het?
 
-Example: "A **fluffy white** cat **sitting on a windowsill**."
+Voorbeeld: "Een **pluizige witte** kat **zit op een vensterbank**."
 
-Run this new prompt and compare it to the first image. How has it changed?
+Voer deze nieuwe prompt uit en vergelijk deze met de eerste afbeelding. Hoe is het veranderd?
 
-![A fluffy white cat with large, round, blue eyes and a pink nose sits on a windowsill. The cat's fur is long and soft. There are raindrops on the window, and through the window, there is a view of a building. On the windowsill behind the cat, there is a small potted plant.](images/prompt2.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Describe the background**
-
-Where is the scene happening? Adding a setting makes your prompt more descriptive for the model, giving details to go around the object of the image.
-
-Example: "A fluffy white cat sitting on a windowsill **in a cozy living room**."
-
-Run the updated prompt. Notice the new elements that appear.
-
-![A fluffy white cat with striking blue eyes and a pink nose sits on a windowsill. Sunlight streams through the window. The cat is sitting on a thin mat, and next to the cat is a small plant in a burlap-wrapped pot. The background features a cozy room with curtains, a sofa with cushions, and shelves with items such as a lamp and a potted plant.](images/prompt3.jpg)
+![Een pluizige witte kat met grote, ronde, blauwe ogen en een roze neus zit op een vensterbank. De vacht van de kat is lang en zacht. Er zitten regendruppels op het raam en door het raam is een gebouw zichtbaar. Op de vensterbank achter de kat staat een kleine plant in een potje.](images/prompt2.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Include key elements**
+**Beschrijf de achtergrond**
 
-What other things should be in the scene?
+Waar speelt de scène zich af? Het toevoegen van een instelling maakt je prompt beschrijvend voor het model, wat meer details geeft over het doel van de afbeelding.
 
-Example: "A fluffy white cat sitting on a windowsill **with a potted plant next to it**, in a cozy living room."
+Voorbeeld: "Een pluizige witte kat die op een vensterbank **in een gezellige woonkamer** zit."
 
-Run the updated prompt. How do the extra details change the image?
+Voer de bijgewerkte prompt uit. Let op de nieuwe elementen die verschijnen.
 
-![A fluffy white cat with green eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a small succulent and a larger leafy plant. The background features a cozy interior with dark curtains, a green cushion, and a knitted blanket.](images/prompt4.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Specify colours and styles**
-
-Colours and styles add character to your image. What mood or style do you want?
-
-Example: "A fluffy white cat sitting on a windowsill with a **green** potted plant next to it, in a cozy, **vintage-style** living room."
-
-Run the prompt. See how the colours and style affect the image.
-
-![A fluffy white cat with dark eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a spiky succulent, a small leafy plant, and a larger plant with broad leaves in a decorative pot. The window behind the cat is old and slightly frosted, and through the window, a brick wall is visible. The background features a cozy interior with light curtains, a cushion, and shelves.](images/prompt5.jpg)
+![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank. Het zonlicht schijnt door het raam. De kat zit op een dunne mat, en naast de kat staat een klein plantje in een met jute omwikkelde pot. Op de achtergrond zie je een gezellige kamer met gordijnen, een bank met kussens en planken met spullen zoals een lamp en een potplant.](images/prompt3.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Think about composition**
+**Belangrijke elementen toevoegen**
 
-How should the image be composed? Is it a close-up or a wide shot?
+Welke andere dingen zouden er nog in de scène moeten voorkomen?
 
-Example: "**A close-up of** a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room."
+Voorbeeld: "Een pluizige witte kat zit op een vensterbank **met een potplant ernaast**, in een gezellige woonkamer."
 
-Run the prompt and see how changing the composition changes the focus of the image.
+Voer de bijgewerkte prompt uit. Hoe veranderen de extra details de afbeelding?
 
-![A fluffy white cat with green eyes and a pink nose sits on a blanket on a windowsill. The windowsill is decorated with several potted plants, including a trailing succulent in a green pot and a hanging plant. The background features a cozy interior with a green cushion, a lamp, and another plant.](images/prompt6.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Add text if you like**
-
-If you want text in the image, include what it should say and how it should look.
-
-Example: "A close-up of a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, **with the text 'Home Sweet Home' in cursive font at the bottom**."
-
-Run the prompt. Check if the text appears as you wanted and fits well with the image.
-
-![A fluffy white cat with green eyes and a pink nose sits on a thin mat on a windowsill, looking out of the window. The windowsill is decorated with potted plants, including a succulent in a green pot. Through the window, there is a view of a building with multiple windows. In the foreground of the image, there is text that reads "SUSCET Home sweet Home" in an elegant style, with some decoration. The overall scene conveys a cozy and home-like atmosphere.](images/prompt7.jpg)
+![Een pluizige witte kat met groene ogen en een roze neus zit op een vensterbank. De vensterbank is versierd met verschillende potplanten, waaronder een kleine vetplant en een grotere plant met mooie bladeren. Op de achtergrond zie je een gezellig interieur met donkere gordijnen, een groen kussen en een gebreide deken.](images/prompt4.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Change and refine**
+**Geef kleuren en stijlen op**
 
-Test your prompt with the image generator. If it is not perfect, adjust the details and try again. Throughout the previous images, you may have noticed the cat's eyes changing colour. You could fix that now.
+Kleuren en stijlen voegen karakter toe aan jouw afbeelding. Welke stemming of stijl wil je?
 
-Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, with the text 'Home Sweet Home' in cursive font at the bottom."
+Voorbeeld: "Een pluizige witte kat die op een vensterbank zit met een **groene** potplant ernaast, in een gezellige, **vintage-stijl** woonkamer."
 
-Run the updated prompt. Make any necessary changes until the image matches your idea.
+Voer de prompt uit. Bekijk hoe de kleuren en de stijl de afbeelding beïnvloeden.
 
-![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank en op de rugleuning van een bank, naast een plantje in een decoratieve metalen overpot. De vensterbank maakt deel uit van een gezellig interieur, met een bloemenkussen, een groene hangplant en legplanken. Door het raam is een gebouw te zien. Op de voorgrond van de afbeelding staat de tekst "HOME Hweet SWEET Home" in een elegante stijl, met wat versieringen.](images/prompt8.jpg)
+![Een pluizige witte kat met donkergroene ogen en een roze neus zit op een vensterbank. De vensterbank is versierd met verschillende potplanten, waaronder een stekelige vetplant, een klein bladplantje en een grotere plant met brede bladeren in een decoratieve pot. Het raam achter de kat is oud en licht bevroren, en door het raam is een bakstenen muur zichtbaar. Op de achtergrond zie je een gezellig interieur met lichte gordijnen, een kussen en legplanken.](images/prompt5.jpg)
 
 \--- /task ---
 
-Goed gedaan! You have learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
+\--- task ---
+
+**Denk na over de compositie**
+
+Hoe moet het beeld worden samengesteld? Is het een close-up of een breedbeeldfoto?
+
+Voorbeeld: '**Een close-up van** een pluizige witte kat die op een vensterbank zit met een groene potplant ernaast, in een gezellige woonkamer in vintagestijl.'
+
+Voer de prompt uit en kijk hoe het veranderen van de compositie de focus van het beeld verandert.
+
+![Een pluizige witte kat met groene ogen en een roze neus zit op een deken op een vensterbank. De vensterbank is versierd met verschillende potplanten, waaronder een hangende vetplant in een groene pot en een hangplant. Op de achtergrond zie je een gezellig interieur met een groen kussen, een lamp en nog een plant.](images/prompt6.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Voeg eventueel tekst toe**
+
+Als je tekst in de afbeelding wilt, voeg dan toe wat er moet staan en hoe het eruit moet zien.
+
+Voorbeeld: "Een close-up van een pluizige witte kat die op een vensterbank zit met een groene potplant ernaast, in een gezellige woonkamer in vintage-stijl, **met de tekst 'Home Sweet Home' in cursief lettertype eronder**."
+
+Voer de prompt uit. Controleer of de tekst verschijnt zoals je wil en goed past bij de afbeelding.
+
+![Een pluizige witte kat met groene ogen en een roze neus zit op een dunne mat op een vensterbank en kijkt uit het raam. De vensterbank is versierd met potplanten, waaronder een vetplant in een groene pot. Door het raam is er zicht op een gebouw met meerdere ramen. Op de voorgrond van de afbeelding staat de tekst "SUSCET Home sweet Home" in een elegante stijl, met wat versieringen. Het algehele tafereel straalt een gezellige en huiselijke sfeer uit.](images/prompt7.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Veranderen en verfijnen**
+
+Test je prompt met de afbeeldingsgenerator. Als het niet perfect is, pas dan de details aan en probeer het opnieuw. In de voorgaande afbeeldingen is het je misschien opgevallen dat de ogen van de kat van kleur veranderen. Dat kun je nu oplossen.
+
+Voorbeeld: "Een close-up van een pluizige witte kat **met blauwe ogen** die op een vensterbank zit met een groene potplant ernaast, in een gezellige woonkamer in vintage-stijl, met de tekst 'Home Sweet Home' in cursief lettertype eronder."
+
+Voer de bijgewerkte prompt uit. Breng de gewenste wijzigingen aan totdat de afbeelding overeenkomt met jouw idee.
+
+![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank en op de rugleuning van een bank, naast een plantje in een decoratieve metalen pot. De vensterbank maakt deel uit van een gezellig interieur, met een bloemenkussen, een groene hangplant en legplanken. Door het raam is een gebouw te zien. Op de voorgrond van de afbeelding staat de tekst "HOME Hweet SWEET Home" in een elegante stijl, met wat versieringen.](images/prompt8.jpg)
+
+\--- /task ---
+
+Goed gedaan! Je hebt geleerd hoe je een eenvoudig idee omzet in een gedetailleerde afbeelding. Blijf experimenteren en veel plezier met het maken van je eigen unieke afbeeldingen!
