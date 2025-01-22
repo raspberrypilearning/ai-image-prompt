@@ -1,117 +1,117 @@
-## Prompt an AI image generator
+## Напиши запит для генератора зображень ШІ
 
-Follow these steps to explore how to turn simple prompts into detailed instructions to help you create amazing images.
+Виконай ці кроки, щоб перетворити прості запити на докладні інструкції, які допоможуть тобі створювати дивовижні зображення.
 
 \--- task ---
 
-**Start with a simple prompt**
+**Почни з простого запиту**
 
-Begin with a basic idea. That is your starting point — the object of the image.
+Почни з основної ідеї. Це твоя відправна точка — що буде на зображенні.
 
-Example: "A cat."
+Приклад: «кішка».
 
-Run this prompt in the image generator. See what it produces.
+Введи цей запит у генераторі зображень. Подивися, що він зробив.
 
-![An orange and white kitten with large, expressive eyes and a pink nose lies on a wooden surface next to some sprigs of lavender. The kitten has a pink bow around its neck. In the background, there is a burlap-wrapped pot of lavender, against a soft pink backdrop.](images/prompt.jpg)
+![Біло-руде кошеня з великими виразними очима та рожевим носиком лежить на дерев’яній поверхні поруч із кількома гілочками лаванди. На шиї у кошеняти рожевий бантик. На задньому плані горщик з лавандою, обгорнутий мішковиною, на ніжно-рожевому фоні.](images/prompt.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Add specific details**
+**Додай конкретні деталі**
 
-Think about the details. What kind of cat? What is it doing?
+Подумай про деталі. Яка має бути ця кішка? Що вона має робити?
 
-Example: "A **fluffy white** cat **sitting on a windowsill**."
+Приклад: «**пухнаста біла** кішка **сидить на підвіконні**».
 
-Run this new prompt and compare it to the first image. How has it changed?
+Введи цей новий запит і порівняй результат із першим зображенням. Що змінилося?
 
-![A fluffy white cat with large, round, blue eyes and a pink nose sits on a windowsill. The cat's fur is long and soft. There are raindrops on the window, and through the window, there is a view of a building. On the windowsill behind the cat, there is a small potted plant.](images/prompt2.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Describe the background**
-
-Where is the scene happening? Adding a setting makes your prompt more descriptive for the model, giving details to go around the object of the image.
-
-Example: "A fluffy white cat sitting on a windowsill **in a cozy living room**."
-
-Run the updated prompt. Notice the new elements that appear.
-
-![A fluffy white cat with striking blue eyes and a pink nose sits on a windowsill. Sunlight streams through the window. The cat is sitting on a thin mat, and next to the cat is a small plant in a burlap-wrapped pot. The background features a cozy room with curtains, a sofa with cushions, and shelves with items such as a lamp and a potted plant.](images/prompt3.jpg)
+![Пухнаста біла кішка з великими круглими блакитними очима і рожевим носиком сидить на підвіконні. Шерсть у кішки довга і м'яка. На вікні краплі дощу, а за вікном видно будівлю. На підвіконні позаду кішки стоїть маленька рослина в горщику.](images/prompt2.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Include key elements**
+**Опиши задній план**
 
-What other things should be in the scene?
+Де відбувається ця сцена? Коли ти додаєш опис оточення, ти даєш моделі більше корисної інформації про те, що має бути навколо головного елементу.
 
-Example: "A fluffy white cat sitting on a windowsill **with a potted plant next to it**, in a cozy living room."
+Приклад: «пухнаста біла кішка сидить на підвіконні **у затишній вітальні**».
 
-Run the updated prompt. How do the extra details change the image?
+Введи цей новий запит. Зверни увагу, що на зображенні зʼявилися нові предмети.
 
-![A fluffy white cat with green eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a small succulent and a larger leafy plant. The background features a cozy interior with dark curtains, a green cushion, and a knitted blanket.](images/prompt4.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Specify colours and styles**
-
-Colours and styles add character to your image. What mood or style do you want?
-
-Example: "A fluffy white cat sitting on a windowsill with a **green** potted plant next to it, in a cozy, **vintage-style** living room."
-
-Run the prompt. See how the colours and style affect the image.
-
-![A fluffy white cat with dark eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a spiky succulent, a small leafy plant, and a larger plant with broad leaves in a decorative pot. The window behind the cat is old and slightly frosted, and through the window, a brick wall is visible. The background features a cozy interior with light curtains, a cushion, and shelves.](images/prompt5.jpg)
+![Пухнаста біла кішка з блакитними очима і рожевим носиком сидить на підвіконні. Крізь вікно пробивається сонячне світло. Кішка сидить на тонкій підстилці, а поруч із нею — невелика рослина в горщику, загорнутому в мішковину. На задньому плані видно затишну кімнату зі шторами, диваном із подушками та полицями з лампою, рослиною та іншими предметами.](images/prompt3.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Think about composition**
+**Додай основні елементи**
 
-How should the image be composed? Is it a close-up or a wide shot?
+Які інші предмети мають бути на зображенні?
 
-Example: "**A close-up of** a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room."
+Приклад: «пухнаста біла кішка сидить на підвіконні у затишній вітальні **поруч з рослиною в горщику**».
 
-Run the prompt and see how changing the composition changes the focus of the image.
+Введи цей новий запит. Як додаткові деталі змінили зображення?
 
-![A fluffy white cat with green eyes and a pink nose sits on a blanket on a windowsill. The windowsill is decorated with several potted plants, including a trailing succulent in a green pot and a hanging plant. The background features a cozy interior with a green cushion, a lamp, and another plant.](images/prompt6.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Add text if you like**
-
-If you want text in the image, include what it should say and how it should look.
-
-Example: "A close-up of a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, **with the text 'Home Sweet Home' in cursive font at the bottom**."
-
-Run the prompt. Check if the text appears as you wanted and fits well with the image.
-
-![A fluffy white cat with green eyes and a pink nose sits on a thin mat on a windowsill, looking out of the window. The windowsill is decorated with potted plants, including a succulent in a green pot. Through the window, there is a view of a building with multiple windows. In the foreground of the image, there is text that reads "SUSCET Home sweet Home" in an elegant style, with some decoration. The overall scene conveys a cozy and home-like atmosphere.](images/prompt7.jpg)
+![Пухнаста біла кішка з зеленими очима і рожевим носиком сидить на підвіконні. Підвіконня прикрашають кілька рослин у горщиках, серед яких маленький сукулент і більша листяна рослина. На задньому плані – затишний інтер’єр із темними шторами, зеленою подушкою та в’язаною ковдрою.](images/prompt4.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Change and refine**
+**Вкажи конкретні кольори та стилі**
 
-Test your prompt with the image generator. If it is not perfect, adjust the details and try again. Throughout the previous images, you may have noticed the cat's eyes changing colour. You could fix that now.
+Кольори та стилі додають характеру вашому зображенню. Який настрій чи стиль ти хочеш отримати?
 
-Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, with the text 'Home Sweet Home' in cursive font at the bottom."
+Приклад: «пухнаста біла кішка сидить на підвіконні у затишній **старомодній** вітальні поруч із **зеленою** рослиною в горщику».
 
-Run the updated prompt. Make any necessary changes until the image matches your idea.
+Введи запит. Подивися, як кольори та стиль впливають на зображення.
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Пухнаста біла кішка з темними очима і рожевим носиком сидить на підвіконні. Підвіконня прикрашено декількома рослинами в горщиках, у тому числі колючим сукулентом, маленькою листяною рослиною та більшою рослиною з широким листям у декоративному горщику. Вікно за кішкою старе і трохи вкрите памороззю, а за вікном видно цегляну стіну. На задньому плані – затишний інтер’єр зі світлими шторами, подушкою та поличками.](images/prompt4.jpg)
 
 \--- /task ---
 
-Молодець! You have learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
+\--- task ---
+
+**Подумай про композицію**
+
+Якою має бути композиція зображення? Це щось великим планом чи панорамне зображення?
+
+Приклад: «**великий план** пухнастої білої кішки, яка сидить на підвіконні поруч із зеленою рослиною в горщику в затишній старомодній вітальні».
+
+Запусти запит та подивися, як зміна композиції робить фокус зображення іншим.
+
+![Пухнаста біла кішка з зеленими очима і рожевим носиком сидить на ковдрі на підвіконні. Підвіконня прикрашають кілька рослин у горщиках, серед яких сукулент у зеленому горщику і вʼюнка рослина. На задньому плані – затишний інтер’єр із зеленою подушкою, лампою та ще однією рослиною.](images/prompt4.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Додай текст за бажанням**
+
+Якщо ти хочеш, щоб на картинці був текст, опиши це в запиті та вкажи, як цей текст має виглядати.
+
+Приклад: «великий план пухнастої білої кішки, яка сидить на підвіконні поруч із зеленою рослиною в горщику у затишній старомодній вітальні, а **внизу курсивний текст «рідна оселя»**.
+
+Введи запит. Перевір, чи текст виглядає так, як задумано, і добре підходить до зображення.
+
+![Пухнаста біла кішка з зеленими очима і рожевим носиком сидить на тонкій підстилці на підвіконні й дивиться у вікно. Підвіконня прикрашають рослини у горщиках, серед яких маленький сукулент у зеленому горщику. За вікном видно будівлю з кількома вікнами. На передньому плані зображення розміщено текст із узористим написом «SUSCET Home sweet Home» вишуканим шрифтом. Ця англійська фраза з помилкою означає «рідна оселя». Загальна атмосфера затишна та домашня.](images/prompt7.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Зміни та вдоскональ**
+
+Протестуй свій запит у генераторі зображень. Якщо результат не ідеальний, підкоригуй деталі та спробуй знову. На попередніх зображеннях ми бачили, що котячі очі постійно різного кольору. Ти можеш це зараз виправити.
+
+Приклад: «великий план пухнастої білої кішки **з блакитними очима**, яка сидить на підвіконні поруч із зеленою рослиною в горщику у затишній старомодній вітальні, а **внизу курсивний текст «рідна оселя»**.
+
+Введи цей новий запит. Змінюй запит, якщо потрібно, доки зображення не відповідатиме твоїй ідеї.
+
+![Пухнаста біла кішка з незвичайно блакитними очима та рожевим носиком сидить на поверхні між підвіконням та спинкою дивана, поруч із рослиною у декоративному металевому горщику. Підвіконня є частиною затишного інтерʼєру з подушкою в квітки, зеленою вʼюнкою рослиною і полицями. За вікном видно будівлю. На передньому плані зображення розміщено текст із узористим написом «HOME Hweet SWEET Home» вишуканим шрифтом. Ця англійська фраза з помилкою означає «рідна оселя».](images/prompt8.jpg)
+
+\--- /task ---
+
+Молодець! Тепер ти вмієш перетворювати просту ідею на детальний запит для зображення. Продовжуй експериментувати та створюй власні унікальні зображення!
