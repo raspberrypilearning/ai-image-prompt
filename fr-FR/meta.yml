@@ -1,19 +1,19 @@
-title: Prompt an AI image generator
+title: Donner un prompt à un générateur d'images IA
 hero_image: images/banner.png
-description: Explore how to create good prompts for AI image generators
+description: Découvre comment créer de bons prompts pour les générateurs d'images d'IA
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
   - 
     title: Ce que tu vas faire
   - 
-    title: Prompt an AI image generator
+    title: Donner un prompt à un générateur d'images IA
     completion:
       - engaged
       - internal
+      - external
   - 
     title: Que peux-tu faire maintenant ?
     completion:
-      - external
