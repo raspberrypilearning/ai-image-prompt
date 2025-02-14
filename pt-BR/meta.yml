@@ -8,12 +8,13 @@ last_tested: "2022-05-19"
 steps:
   - 
     title: Você vai fazer
+    completion:
+      - engaged
   - 
     title: Prompt an AI image generator
     completion:
-      - engaged
       - internal
-      - external
   - 
     title: Perguntas rápidas
     completion:
+      - external
