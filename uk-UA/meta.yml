@@ -1,0 +1,18 @@
+---
+title: Напиши запит для генератора зображень ШІ
+hero_image: images/banner.png
+description: Дізнайся, як створити ефективні запити для генераторів зображень ШІ
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Що ти зробиш
+    completion:
+      - engaged
+  - title: Напиши запит для генератора зображень ШІ
+    completion:
+      - internal
+  - title: Що ти тепер вмієш?
+    completion:
+      - external
