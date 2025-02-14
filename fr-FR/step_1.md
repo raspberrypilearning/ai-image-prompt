@@ -26,7 +26,7 @@ Si tu n'as pas l'âge minimum requis pour utiliser les générateurs d'images IA
 
 #### Générateurs d'images en ligne gratuits
 
-Un générateur d'images gratuit qui ne t'oblige pas à t'inscrire est [Craiyon](https://www.craiyon.com){:target="_blank"}, mais tu dois avoir [l'âge de la majorité](https://fr.wikipedia. rg/wiki/Age_of_majority){:target="_blank"} dans ta juridiction, ou plus, pour l'utiliser ([voir les conditions](https://www.craiyon.com/terms){:target="_blank"} pour plus d'informations).
+Un générateur d'images gratuit qui ne t'oblige pas à t'inscrire est [Craiyon](https://www.craiyon.com){:target="_blank"}, mais tu dois avoir [l'âge de la majorité](https://fr.wikipedia.org/wiki/Majorit%C3%A9_civile){:target="_blank"} dans ta juridiction, ou plus, pour l'utiliser ([voir les conditions](https://www.craiyon.com/terms){:target="_blank"} pour plus d'informations).
 
 D'autres outils en ligne sont disponibles, mais nécessitent que tu t'inscrives avec une adresse e-mail actuelle. En voici quelques exemples :
 
