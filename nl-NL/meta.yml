@@ -8,12 +8,13 @@ last_tested: "2022-05-19"
 steps:
   - 
     title: Wat ga je maken
+    completion:
+      - engaged
   - 
     title: Geef een aanwijzing aan een AI afbeeldingsgenerator
     completion:
-      - engaged
       - internal
-      - external
   - 
     title: Wat kun je nu doen?
     completion:
+      - external
