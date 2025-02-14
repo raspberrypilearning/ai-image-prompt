@@ -8,12 +8,13 @@ last_tested: "2022-05-19"
 steps:
   - 
     title: Lo que harás
+    completion:
+      - engaged
   - 
     title: Prompt an AI image generator
     completion:
-      - engaged
       - internal
-      - external
   - 
     title: What can you do now?
     completion:
+      - external
