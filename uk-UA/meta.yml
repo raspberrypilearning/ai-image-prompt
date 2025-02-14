@@ -8,12 +8,13 @@ last_tested: "2022-05-19"
 steps:
   - 
     title: Що ти зробиш
+    completion:
+      - engaged
   - 
     title: Напиши запит для генератора зображень ШІ
     completion:
-      - engaged
       - internal
-      - external
   - 
     title: Що ти тепер вмієш?
     completion:
+      - external
