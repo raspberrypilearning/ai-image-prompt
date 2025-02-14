@@ -8,12 +8,13 @@ last_tested: "2022-05-19"
 steps:
   - 
     title: Ce que tu vas faire
+    completion:
+      - engaged
   - 
     title: Donner un prompt à un générateur d'images IA
     completion:
-      - engaged
       - internal
-      - external
   - 
     title: Que peux-tu faire maintenant ?
     completion:
+      - external
