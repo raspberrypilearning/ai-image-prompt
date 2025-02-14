@@ -1,0 +1,18 @@
+---
+title: Donner un prompt à un générateur d'images IA
+hero_image: images/banner.png
+description: Découvre comment créer de bons prompts pour les générateurs d'images d'IA
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Ce que tu vas faire
+    completion:
+      - engaged
+  - title: Donner un prompt à un générateur d'images IA
+    completion:
+      - internal
+  - title: Que peux-tu faire maintenant ?
+    completion:
+      - external
