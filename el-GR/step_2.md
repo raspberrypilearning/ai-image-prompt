@@ -1,117 +1,117 @@
-## Prompt an AI image generator
+## Προτροπή σε μια γεννήτρια εικόνων με τεχνητή νοημοσύνη (ΤΝ)
 
-Follow these steps to explore how to turn simple prompts into detailed instructions to help you create amazing images.
+Ακολούθησε αυτά τα βήματα για να εξερευνήσεις πώς να μετατρέψεις απλές προτροπές σε λεπτομερείς οδηγίες που θα σε βοηθήσουν να δημιουργήσεις εκπληκτικές εικόνες.
 
 \--- task ---
 
-**Start with a simple prompt**
+**Ξεκίνησε με μια απλή προτροπή**
 
-Begin with a basic idea. That is your starting point — the object of the image.
+Ξεκίνα με μια βασική ιδέα. Αυτό είναι το σημείο εκκίνησης σου - το αντικείμενο της εικόνας.
 
-Example: "A cat."
+Παράδειγμα: "Μια γάτα."
 
-Run this prompt in the image generator. See what it produces.
+Εκτέλεσε αυτήν την προτροπή στη γεννήτρια εικόνας. Δείτε τι παράγει.
 
-![An orange and white kitten with large, expressive eyes and a pink nose lies on a wooden surface next to some sprigs of lavender. The kitten has a pink bow around its neck. In the background, there is a burlap-wrapped pot of lavender, against a soft pink backdrop.](images/prompt.jpg)
+![Ένα πορτοκαλί και λευκό γατάκι με μεγάλα, εκφραστικά μάτια και ροζ μύτη βρίσκεται σε μια ξύλινη επιφάνεια δίπλα σε μερικά κλωνάρια λεβάντας. Το γατάκι έχει ένα ροζ φιόγκο στο λαιμό του. Στο βάθος, υπάρχει μια γλάστρα με λεβάντα τυλιγμένη με λινάτσα, με φόντο απαλό ροζ.](images/prompt.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Add specific details**
+**Πρόσθεσε συγκεκριμένες λεπτομέρειες**
 
-Think about the details. What kind of cat? What is it doing?
+Σκέψου τις λεπτομέρειες. Τι είδους γάτα; Τι κάνει;
 
-Example: "A **fluffy white** cat **sitting on a windowsill**."
+Παράδειγμα: "Μια **χνουδωτή λευκή** γάτα **κάθεται σε ένα περβάζι**."
 
-Run this new prompt and compare it to the first image. How has it changed?
+Εκτέλεσε αυτήν τη νέα προτροπή και σύγκρινε το αποτέλεσμα με την πρώτη εικόνα. Πώς έχει αλλάξει;
 
-![A fluffy white cat with large, round, blue eyes and a pink nose sits on a windowsill. The cat's fur is long and soft. There are raindrops on the window, and through the window, there is a view of a building. On the windowsill behind the cat, there is a small potted plant.](images/prompt2.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Describe the background**
-
-Where is the scene happening? Adding a setting makes your prompt more descriptive for the model, giving details to go around the object of the image.
-
-Example: "A fluffy white cat sitting on a windowsill **in a cozy living room**."
-
-Run the updated prompt. Notice the new elements that appear.
-
-![A fluffy white cat with striking blue eyes and a pink nose sits on a windowsill. Sunlight streams through the window. The cat is sitting on a thin mat, and next to the cat is a small plant in a burlap-wrapped pot. The background features a cozy room with curtains, a sofa with cushions, and shelves with items such as a lamp and a potted plant.](images/prompt3.jpg)
+![Μια χνουδωτή λευκή γάτα με μεγάλα, στρογγυλά, μπλε μάτια και ροζ μύτη κάθεται σε ένα περβάζι. Το τρίχωμα της γάτας είναι μακρύ και απαλό. Υπάρχουν σταγόνες βροχής στο παράθυρο και από το παράθυρο φαίνεται ένα κτίριο. Στο περβάζι πίσω από τη γάτα, υπάρχει ένα μικρό φυτό σε γλάστρα.](images/prompt2.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Include key elements**
+**Περίγραψε το φόντο**
 
-What other things should be in the scene?
+Πού λαμβάνει χώρα η σκηνή; Η προσθήκη μιας ρύθμισης κάνει την προτροπή σου πιο περιγραφική για το μοντέλο, δίνοντας λεπτομέρειες γύρω από το αντικείμενο της εικόνας.
 
-Example: "A fluffy white cat sitting on a windowsill **with a potted plant next to it**, in a cozy living room."
+Παράδειγμα: "Μια χνουδωτή λευκή γάτα κάθεται σε ένα περβάζι **σε ένα άνετο σαλόνι**."
 
-Run the updated prompt. How do the extra details change the image?
+Εκτέλεσε την ενημερωμένη προτροπή. Παρατήρησε τα νέα στοιχεία που εμφανίζονται.
 
-![A fluffy white cat with green eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a small succulent and a larger leafy plant. The background features a cozy interior with dark curtains, a green cushion, and a knitted blanket.](images/prompt4.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Specify colours and styles**
-
-Colours and styles add character to your image. What mood or style do you want?
-
-Example: "A fluffy white cat sitting on a windowsill with a **green** potted plant next to it, in a cozy, **vintage-style** living room."
-
-Run the prompt. See how the colours and style affect the image.
-
-![A fluffy white cat with dark eyes and a pink nose sits on a windowsill. The windowsill is decorated with several potted plants, including a spiky succulent, a small leafy plant, and a larger plant with broad leaves in a decorative pot. The window behind the cat is old and slightly frosted, and through the window, a brick wall is visible. The background features a cozy interior with light curtains, a cushion, and shelves.](images/prompt5.jpg)
+![Μια χνουδωτή λευκή γάτα με εντυπωσιακά μπλε μάτια και ροζ μύτη κάθεται σε ένα περβάζι. Το φως του ήλιου περνάει μέσα από το παράθυρο. Η γάτα κάθεται σε ένα λεπτό χαλάκι, και δίπλα στη γάτα είναι ένα μικρό φυτό σε μια γλάστρα τυλιγμένη με λινάτσα. Το φόντο διαθέτει ένα άνετο δωμάτιο με κουρτίνες, έναν καναπέ με μαξιλάρια και ράφια με αντικείμενα όπως ένα φωτιστικό και ένα φυτό σε γλάστρα.](images/prompt3.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Think about composition**
+**Βάλε τα βασικά στοιχεία**
 
-How should the image be composed? Is it a close-up or a wide shot?
+Ποια άλλα πράγματα πρέπει να υπάρχουν στη σκηνή;
 
-Example: "**A close-up of** a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room."
+Παράδειγμα: "Μια χνουδωτή λευκή γάτα κάθεται σε ένα περβάζι **με ένα φυτό σε γλάστρα δίπλα της**, σε ένα άνετο σαλόνι."
 
-Run the prompt and see how changing the composition changes the focus of the image.
+Εκτέλεσε την ενημερωμένη προτροπή. Πώς οι επιπλέον λεπτομέρειες αλλάζουν την εικόνα;
 
-![A fluffy white cat with green eyes and a pink nose sits on a blanket on a windowsill. The windowsill is decorated with several potted plants, including a trailing succulent in a green pot and a hanging plant. The background features a cozy interior with a green cushion, a lamp, and another plant.](images/prompt6.jpg)
-
-\--- /task ---
-
-\--- task ---
-
-**Add text if you like**
-
-If you want text in the image, include what it should say and how it should look.
-
-Example: "A close-up of a fluffy white cat sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, **with the text 'Home Sweet Home' in cursive font at the bottom**."
-
-Run the prompt. Check if the text appears as you wanted and fits well with the image.
-
-![A fluffy white cat with green eyes and a pink nose sits on a thin mat on a windowsill, looking out of the window. The windowsill is decorated with potted plants, including a succulent in a green pot. Through the window, there is a view of a building with multiple windows. In the foreground of the image, there is text that reads "SUSCET Home sweet Home" in an elegant style, with some decoration. The overall scene conveys a cozy and home-like atmosphere.](images/prompt7.jpg)
+![Μια χνουδωτή λευκή γάτα με πράσινα μάτια και μια ροζ μύτη κάθεται σε ένα περβάζι. Το περβάζι είναι διακοσμημένο με πολλά φυτά σε γλάστρες, μεταξύ των οποίων ένα μικρό παχύφυτο και ένα μεγαλύτερο φυλλώδες φυτό. Το φόντο έχει έναν άνετο εσωτερικό χώρο με σκούρες κουρτίνες, ένα πράσινο μαξιλάρι και μια πλεκτή κουβέρτα.](images/prompt4.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Change and refine**
+**Προσδιόρισε χρώματα και στυλ**
 
-Test your prompt with the image generator. If it is not perfect, adjust the details and try again. Throughout the previous images, you may have noticed the cat's eyes changing colour. You could fix that now.
+Τα χρώματα και τα στυλ προσθέτουν χαρακτήρα στην εικόνα σου. Τι διάθεση ή στυλ θέλεις;
 
-Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, with the text 'Home Sweet Home' in cursive font at the bottom."
+Παράδειγμα: "Μια χνουδωτή λευκή γάτα κάθεται σε ένα περβάζι με ένα **πράσινο** φυτό σε γλάστρα δίπλα της, σε ένα ζεστό, **vintage στυλ** σαλόνι."
 
-Run the updated prompt. Make any necessary changes until the image matches your idea.
+Εκτέλεσε την προτροπή. Δες πώς τα χρώματα και το στυλ επηρεάζουν την εικόνα.
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Μια χνουδωτή λευκή γάτα με σκούρα μάτια και ροζ μύτη κάθεται σε ένα περβάζι. Το περβάζι είναι διακοσμημένο με πολλά φυτά σε γλάστρες, συμπεριλαμβανομένου ενός αιχμηρού παχύφυτου, ενός μικρού φυλλώδους φυτού και ενός μεγαλύτερου φυτού με πλατιά φύλλα σε μια γλάστρα με διακόσμηση. Το παράθυρο πίσω από τη γάτα είναι παλιό και ελαφρώς παγωμένο και μέσα από το παράθυρο είναι ορατός ένας τοίχος από τούβλα. Το φόντο έχει έναν άνετο εσωτερικό χώρο με ανοιχτόχρωμες κουρτίνες, ένα μαξιλάρι και ράφια.](images/prompt5.jpg)
 
 \--- /task ---
 
-Συγχαρητήρια! You have learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
+\--- task ---
+
+**Σκέψου τη σύνθεση**
+
+Ποιά πρέπει να είναι η σύνθεση της εικόνας; Είναι κοντινό ή ευρυγώνιο πλάνο;
+
+Παράδειγμα: "**Ένα κοντινό πλάνο** μιας χνουδωτής λευκής γάτας που κάθεται σε ένα περβάζι με ένα πράσινο φυτό σε γλάστρα δίπλα της, σε ένα άνετο σαλόνι σε vintage στυλ."
+
+Εκέλεσεε την προτροπή και δες πώς η αλλαγή της σύνθεσης αλλάζει την εστίαση της εικόνας.
+
+![Μια χνουδωτή λευκή γάτα με πράσινα μάτια και ροζ μύτη κάθεται σε μια κουβέρτα σε ένα περβάζι. Το περβάζι είναι διακοσμημένο με πολλά φυτά σε γλάστρες, μεταξύ αυτών ένα κρεμοκλαδές παχύφυτο σε πράσινη γλάστρα και ένα κρεμαστό φυτό. Το φόντο έχει έναν άνετο εσωτερικό χώρο με ένα πράσινο μαξιλάρι, μια λάμπα και άλλο ένα φυτό.](images/prompt6.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Πρόσθεσε κείμενο αν θέλεις**
+
+Εάν θέλεις κείμενο στην εικόνα, πρέπει να προσδιορίσεις τι πρέπει να λέει και πώς πρέπει να φαίνεται.
+
+Παράδειγμα: "Ένα κοντινό πλάνο μιας χνουδωτής λευκής γάτας που κάθεται σε ένα περβάζι με ένα φυτό σε πράσινη γλάστρα δίπλα της, σε ένα άνετο, vintage-style σαλόνι, **με το κείμενο 'Home Sweet Home' σε καμπυλωτή γραμματοσειρά στο κάτω μέρος**."
+
+Εκτέλεσε την προτροπή. Έλεγξε αν το κείμενο εμφανίζεται όπως θέλεις και αν ταιριάζει με την εικόνα.
+
+![Μια χνουδωτή λευκή γάτα με πράσινα μάτια και ροζ μύτη κάθεται σε ένα λεπτό χαλάκι σε ένα περβάζι και κοιτάζει έξω από το παράθυρο. Το περβάζι είναι διακοσμημένο με φυτά σε γλάστρες, μεταξύ των οποίων ένα παχύφυτο και μια πράσινη γλάστρα. Από το παράθυρο, φαίνεται ένα κτίριο με πολλά παράθυρα. Στο πρώτο πλάνο της εικόνας, υπάρχει κείμενο που γράφει "SUSCET Home sweet Home" σε κομψό στυλ, με λίγη διακόσμηση. Η συνολική σκηνή μεταφέρει μια ζεστή και σπιτική ατμόσφαιρα.](images/prompt7.jpg)
+
+\--- /task ---
+
+\--- task ---
+
+**Αλλαγή και βελτίωση**
+
+Δοκίμασε αυτήν την προτροπή με τη γεννήτρια εικόνας. Εάν δεν είναι τέλεια η εικόνα, προσάρμοσε τις λεπτομέρειες και δοκίμασε ξανά. Σε όλες τις προηγούμενες εικόνες, μπορεί να παρατήρησες ότι τα μάτια της γάτας άλλαζαν χρώμα. Θα μπορούσες να το διορθώσεις τώρα.
+
+Παράδειγμα: "Ένα κοντινό πλάνο μιας χνουδωτής λευκής γάτας **με μπλε μάτια** που κάθεται σε ένα περβάζι με ένα φυτό σε πράσινη γλάστρα δίπλα της, σε ένα άνετο, vintage-style σαλόνι, με το κείμενο «Home Sweet Home» σε καμπυλωτή γραμματοσειρά στο κάτω μέρος.»
+
+Εκτέλεσε την ενημερωμένη προτροπή. Κάνε τις απαραίτητες αλλαγές μέχρι η εικόνα να ταιριάζει με την ιδέα σου.
+
+![Μια χνουδωτή λευκή γάτα με εντυπωσιακά μπλε μάτια και μια ροζ μύτη κάθεται σε ένα περβάζι και στο πίσω μέρος ενός καναπέ, δίπλα σε μια γλάστρα με φυτό σε ένα διακοσμητικό μεταλλικό δοχείο. Το περβάζι είναι μέρος ενός ζεστού εσωτερικού χώρου, με ένα λουλουδάτο μαξιλάρι, ένα καταπράσινο φυτό και ράφια. Από το παράθυρο διακρίνεται ένα κτίριο. Στο πρώτο πλάνο της εικόνας, υπάρχει κείμενο που γράφει "HOME Hweet SWEET Home" σε κομψό στυλ, με λίγη διακόσμηση.](images/prompt8.jpg)
+
+\--- /task ---
+
+Συγχαρητήρια! Έχεις μάθει πώς να μετατρέπεις μια απλή ιδέα σε μια λεπτομερή προτροπή εικόνας. Συνέχισε να πειραματίζεσαι και διασκέδασε δημιουργώντας τις δικές σου μοναδικές εικόνες!
