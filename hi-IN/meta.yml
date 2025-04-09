@@ -1,0 +1,20 @@
+title: Prompt an AI image generator
+hero_image: images/banner.png
+description: Explore how to create good prompts for AI image generators
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - 
+    title: परिचय
+    completion:
+      - engaged
+  - 
+    title: Prompt an AI image generator
+    completion:
+      - internal
+  - 
+    title: आगे क्या?
+    completion:
+      - external
