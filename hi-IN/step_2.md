@@ -1,18 +1,18 @@
-## Prompt an AI image generator
+## AI इमेज जनरेटर को संकेत दें
 
-Follow these steps to explore how to turn simple prompts into detailed instructions to help you create amazing images.
+सरल संकेतों को विस्तृत निर्देशों में बदलने के तरीके जानने के लिए इन चरणों का पालन करें, जिससे आपको अद्भुत चित्र बनाने में मदद मिलेगी।
 
 \--- task ---
 
-**Start with a simple prompt**
+**एक सरल संकेत से शुरू करें**
 
-Begin with a basic idea. That is your starting point — the object of the image.
+एक बुनियादी विचार से शुरुआत करें। वह आपका प्रारंभिक बिंदु है - छवि का ऑब्जेक्ट।
 
-Example: "A cat."
+उदाहरण: "एक बिल्ली"
 
-Run this prompt in the image generator. See what it produces.
+इस प्रॉम्प्ट को इमेज जनरेटर में चलाएँ। देखिये इससे क्या पैदा होता है |
 
-![An orange and white kitten with large, expressive eyes and a pink nose lies on a wooden surface next to some sprigs of lavender. The kitten has a pink bow around its neck. In the background, there is a burlap-wrapped pot of lavender, against a soft pink backdrop.](images/prompt.jpg)
+![बड़ी, अभिव्यंजक आँखों और गुलाबी नाक वाला एक नारंगी और सफेद बिल्ली का बच्चा लैवेंडर की कुछ टहनियों के बगल में लकड़ी की सतह पर लेटा हुआ है। बिल्ली के बच्चे की गर्दन के चारों ओर एक गुलाबी धनुष टाई है। पृष्ठभूमि में, नरम गुलाबी पृष्ठभूमि के सामने लैवेंडर का एक बर्लेप-लपेटा हुआ बर्तन है।](images/prompt.jpg)
 
 \--- /task ---
 
@@ -110,7 +110,7 @@ Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windo
 
 Run the updated prompt. Make any necessary changes until the image matches your idea.
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![एक आकर्षक नीली आंखों और गुलाबी नाक वाली एक रोएंदार सफेद बिल्ली एक खिड़की और सोफे के पीछे, एक सजावटी धातु के कंटेनर में एक गमले के पौधे के बगल में बैठी है। खिड़की की चौखट एक आरामदायक इंटीरियर का हिस्सा है, जिसमें फूलों का कुशन, हरे पौधे और अलमारियाँ हैं। खिड़की से एक इमारत दिखाई देती है। छवि के अग्रभाग में, कुछ सजावट के साथ, एक सुंदर शैली में "HOME Hweet SWEET Home" लिखा हुआ है।](images/prompt8.jpg)
 
 \--- /task ---
 
