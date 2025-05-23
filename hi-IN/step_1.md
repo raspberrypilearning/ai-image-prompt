@@ -1,53 +1,53 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+यह शिक्षण संसाधन 13 वर्ष से कम आयु के शिक्षार्थियों के लिए अनुशंसित नहीं है। हम उपयोगकर्ताओं को इस सामग्री को जिम्मेदारी से पढ़ने तथा आवश्यकता पड़ने पर किसी विश्वसनीय वयस्क से मार्गदर्शन लेने के लिए प्रोत्साहित करते हैं।
 </p>
 
-## परिचय
+## आप क्या बनाएँगे
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![एक आकर्षक नीली आंखों और गुलाबी नाक वाली एक रोएंदार सफेद बिल्ली एक खिड़की और सोफे के पीछे, एक सजावटी धातु के कंटेनर में एक गमले के पौधे के बगल में बैठी है। खिड़की की चौखट एक आरामदायक इंटीरियर का हिस्सा है, जिसमें फूलों का कुशन, हरे पौधे और अलमारियाँ हैं। खिड़की से एक इमारत दिखाई देती है। छवि के अग्रभाग में, कुछ सजावट के साथ, एक सुंदर शैली में "HOME Hweet SWEET Home" लिखा हुआ है।](images/prompt8.jpg)
 
-Welcome to the exciting world of AI image generation!
+एआई छवि निर्माण की रोमांचक दुनिया में आपका स्वागत है!
 
-By following the steps in this project, you will learn how to create amazing images using an AI image generator.
+इस परियोजना में दिए गए चरणों का पालन करके, आप सीखेंगे कि AI इमेज जनरेटर का उपयोग करके अद्भुत चित्र कैसे बनाएं।
 
 ## --- collapse ---
 
-## title: More detail
+## शीर्षक: अधिक विवरण
 
-This project will help you start with simple ideas and turn them into detailed prompts that you can use to produce stunning images. You will explore how to add specific details; describe settings; include key elements; and think about colours, styles, and composition. Along the way, you will test your prompts, make adjustments, and see how each change helps you create your image.
+यह परियोजना आपको सरल विचारों से शुरुआत करने और उन्हें विस्तृत संकेतों में बदलने में मदद करेगी, जिनका उपयोग आप आश्चर्यजनक चित्र बनाने के लिए कर सकते हैं। आप यह पता लगाएंगे कि विशिष्ट विवरण कैसे जोड़ें; सेटिंग्स का वर्णन कैसे करें; प्रमुख तत्वों को कैसे शामिल करें; तथा रंगों, शैलियों और संरचना के बारे में कैसे सोचें। इस दौरान, आप अपने संकेतों का परीक्षण करेंगे, समायोजन करेंगे, और देखेंगे कि प्रत्येक परिवर्तन आपकी छवि बनाने में किस प्रकार मदद करता है।
 
 \--- /collapse ---
 
 ### आपको किन चीजों की आवश्यकता होगी
 
-For this project, you will need access to an AI image generator.
+इस परियोजना के लिए, आपको AI इमेज जनरेटर तक पहुंच की आवश्यकता होगी।
 
-If you are under the minimum age limits to use AI image generators that are available online, or if you would prefer to host **your own** AI image generator on a Raspberry Pi computer, [follow our instructions here](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
+यदि आप ऑनलाइन उपलब्ध AI इमेज जनरेटर का उपयोग करने के लिए न्यूनतम आयु सीमा से कम हैं, या यदि आप रास्पबेरी पाई कंप्यूटर पर **अपना स्वयं का** AI इमेज जनरेटर होस्ट करना पसंद करेंगे, तो [यहां हमारे निर्देशों का पालन करें](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Free Online Image Generators
+#### निःशुल्क ऑनलाइन छवि जनरेटर
 
-A free image generator that does not require you to register is [Craiyon](https://www.craiyon.com){:target="_blank"}, but you must be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your jurisdiction, or older, to use it ([see the terms](https://www.craiyon.com/terms){:target="_blank"} for more information).
+एक निःशुल्क छवि जनरेटर जिसके लिए आपको पंजीकरण करने की आवश्यकता नहीं है, वह है [Craiyon](https://www.craiyon.com){:target="_blank"}, लेकिन इसका उपयोग करने के लिए आपकी आयु आपके अधिकार क्षेत्र में [वयस्कता की आयु](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} या उससे अधिक होनी चाहिए (अधिक जानकारी के लिए [शर्तें देखें](https://www.craiyon.com/terms){:target="_blank"})।
 
-Other online tools are available, but require you to register with a current email address. Some examples include:
+अन्य ऑनलाइन उपकरण भी उपलब्ध हैं, लेकिन उनके लिए वर्तमान ईमेल पते के साथ पंजीकरण आवश्यक है। कुछ उदाहरणों में शामिल हैं:
 
-- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (minimum age of 13, and if you are not of legal age to enter into the terms, you need permission from a parent/guardian to do so — [see the terms](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} for more information)
-- [Ideogram](https://www.ideogram.ai){:target="_blank"} (minimum age of 13, and if you are under the age of majority in your jurisdiction, a parent/guardian must accept the terms on your behalf — [see the terms](https://ideogram.ai/legal/tos){:target="_blank"} for more information)
-- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([see the terms](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (न्यूनतम आयु 13 वर्ष, और यदि आप शर्तों में प्रवेश करने के लिए कानूनी उम्र के नहीं हैं, तो आपको ऐसा करने के लिए माता-पिता/अभिभावक से अनुमति लेनी होगी - [शर्तें देखें](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} अधिक जानकारी के लिए)
+- [आइडियोग्राम](https://www.ideogram.ai){:target="_blank"} (न्यूनतम आयु 13 वर्ष, और यदि आप अपने अधिकार क्षेत्र में वयस्कता की आयु से कम हैं, तो माता-पिता/अभिभावक को आपकी ओर से शर्तों को स्वीकार करना होगा - [शर्तें देखें](https://ideogram.ai/legal/tos){:target="_blank"} अधिक जानकारी के लिए)
+- [स्थिर प्रसार](https://stablediffusionweb.com/){:target="_blank"} ([शर्तें देखें](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
 
-**If you sign up for an account with one of these services, please remember to follow their safety policies.**
+**यदि आप इनमें से किसी सेवा के लिए खाता खोलते हैं, तो कृपया उनकी सुरक्षा नीतियों का पालन करना न भूलें।**
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this project?
+## शीर्षक: हम बड़े विद्यार्थियों को इस संसाधन का उपयोग करने की सलाह क्यों देते हैं?
 
-It's important to understand how you can keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy, which is why we only recommend this project if you're over 13 years old.
+यह समझना महत्वपूर्ण है कि आप अपनी व्यक्तिगत जानकारी को कैसे सुरक्षित रख सकते हैं। रास्पबेरी पाई फाउंडेशन आपके डेटा और आपकी गोपनीयता की सुरक्षा के प्रति बहुत सतर्क है, यही कारण है कि हम इस प्रोजेक्ट की अनुशंसा केवल तभी करते हैं जब आपकी आयु 13 वर्ष से अधिक हो।
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+आपने देखा होगा कि कई ऑनलाइन सेवाएं उपयोगकर्ताओं से कम से कम 13 वर्ष की आयु मांगती हैं। ऐसा इसलिए है क्योंकि वे आपके द्वारा प्रदान किए गए डेटा को संभालते और संग्रहीत करते हैं, जिसमें व्यक्तिगत जानकारी भी शामिल हो सकती है। यद्यपि ये सेवाएं आपके डेटा की सुरक्षा के लिए सख्त नियमों का पालन करती हैं, फिर भी इंटरनेट पर जानकारी भेजना कभी-कभी कम सुरक्षित हो सकता है।
 
-It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+यह जानना भी महत्वपूर्ण है कि जनरेटिव एआई कभी-कभी **ऐसी सामग्री बना सकता है जो सटीक, निष्पक्ष या उपयुक्त नहीं होती**। ये एआई मॉडल कभी-कभी "भ्रमित" हो सकते हैं और **ऐसी जानकारी उत्पन्न कर सकते हैं जो सच लगती है, लेकिन होती नहीं है**। इसलिए, यह महत्वपूर्ण है कि **एआई एप्लिकेशन के आउटपुट के बारे में सावधानी से सोचें और उसकी दोबारा जांच करें**। जब आप जनरेटिव एआई के साथ काम करें, तो जानकारी की जांच अवश्य कर लें और यदि आप अनिश्चित हों तो विश्वसनीय स्रोतों से पूछें।
 
-**Always look at AI-generated content with a careful and thoughtful mind.** If you need help, please ask a parent, guardian, or teacher to guide you.
+**हमेशा AI द्वारा निर्मित सामग्री को सावधानीपूर्वक और विचारशील मन से देखें।** यदि आपको सहायता की आवश्यकता है, तो कृपया अपने माता-पिता, अभिभावक या शिक्षक से मार्गदर्शन मांगें।
 
-Enjoy learning and creating with generative AI!
+जनरेटिव एआई के साथ सीखने और सृजन का आनंद लें!
 
 \--- /collapse ---
