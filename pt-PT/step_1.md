@@ -1,10 +1,10 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Este recurso de aprendizagem não é recomendado para alunos com menos de 13 anos. Incentivamos os utilizadores a interagir com este material de forma responsável e a procurar orientação de um adulto de confiança quando necessário.
 </p>
 
-## What you will make
+## O que vais fazer
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Um gato branco e fofo com uns impressionantes olhos azuis e um nariz cor-de-rosa, está sentado no parapeito de uma janela e no encosto de um sofá, ao pé de uma planta num vaso de metal decorativo. O parapeito da janela faz parte de um interior acolhedor, com uma almofada florida, uma planta verde rasteira e prateleiras. Pela janela, é possível ver um edifício. No primeiro plano da imagem, há um texto que diz "HOME Hweet SWEET Home" num estilo de letra elegante com algumas decorações.](images/prompt8.jpg)
 
 Welcome to the exciting world of AI image generation!
 
