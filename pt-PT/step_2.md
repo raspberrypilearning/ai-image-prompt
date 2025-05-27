@@ -96,22 +96,22 @@ Exemplo: "Um plano próximo de um gato branco e fofo, sentado num parapeito de u
 
 Executa o prompt. Verifica se o texto aparece como querias e se encaixa bem na imagem.
 
-![Um gato branco e fofo com olhos verdes e um nariz cor-de-rosa, sentado num tapete fino num parapeito de uma janela, a olhar pela janela. O parapeito está decorado com plantas em vasos, incluindo uma suculenta num vaso verde. Através da janela, existe uma vista de um edifício com várias janelas. Em primeiro plano na imagem, há um texto que diz "SUSCET Home sweet Home" num estilo de letra elegante, com algumas decorações. The overall scene conveys a cozy and home-like atmosphere.](images/prompt7.jpg)
+![Um gato branco e fofo com olhos verdes e um nariz cor-de-rosa, sentado num tapete fino num parapeito de uma janela, a olhar pela janela. O parapeito está decorado com plantas em vasos, incluindo uma suculenta num vaso verde. Através da janela, existe uma vista de um edifício com várias janelas. Em primeiro plano na imagem, há um texto que diz "SUSCET Home sweet Home" num estilo de letra elegante, com algumas decorações. O cenário geral transmite uma atmosfera acolhedora e caseira.](images/prompt7.jpg)
 
 \--- /task ---
 
 \--- task ---
 
-**Change and refine**
+**Mudar e refinar**
 
-Test your prompt with the image generator. If it is not perfect, adjust the details and try again. Throughout the previous images, you may have noticed the cat's eyes changing colour. You could fix that now.
+Executa o teu prompt no gerador de imagem. Se não está perfeita, ajusta os detalhes e tenta de novo. Através das imagens anteriores podes ter reparado que os olhos do gato foram mudando de cor. Podes consertar isso agora.
 
-Example: "A close-up of a fluffy white cat **with blue eyes** sitting on a windowsill with a green potted plant next to it, in a cozy, vintage-style living room, with the text 'Home Sweet Home' in cursive font at the bottom."
+Exemplo: "Um plano próximo de um gato branco e fofo **com olhos azuis**, sentado num parapeito de uma janela, ao lado de um vaso verde com uma planta, numa sala de estar acolhedora e num estilo vintage, com o texto 'Home Sweet Home' no tipo de letra cursive na parte inferior da imagem."
 
-Executa o prompt atualizado. Make any necessary changes until the image matches your idea.
+Executa o prompt atualizado. Faz as alterações necessárias até que a imagem corresponda à tua expectativa.
 
 ![Um gato branco e fofo com uns impressionantes olhos azuis e um nariz cor-de-rosa, está sentado no parapeito de uma janela e no encosto de um sofá, ao pé de uma planta num vaso de metal decorativo. O parapeito da janela faz parte de um interior acolhedor, com uma almofada florida, uma planta verde rasteira e prateleiras. Pela janela, é possível ver um edifício. No primeiro plano da imagem, há um texto que diz "HOME Hweet SWEET Home" num estilo de letra elegante com algumas decorações.](images/prompt8.jpg)
 
 \--- /task ---
 
-Well done! You have learned how to turn a simple idea into a detailed image prompt. Keep experimenting and have fun creating your own unique images!
+Muito bem! Aprendeste como tornar uma simples ideia numa imagem detalhada através de um prompt. Continua a experimentar e diverte-te a criar as tuas próprias imagens únicas!
