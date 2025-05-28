@@ -1,4 +1,4 @@
-## Prompt an AI image generator
+## Crear un generador de imágenes de IA
 
 Follow these steps to explore how to turn simple prompts into detailed instructions to help you create amazing images.
 
