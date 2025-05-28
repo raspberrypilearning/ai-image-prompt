@@ -1,53 +1,53 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-This learning resource is not recommended for learners below the age of 13. We encourage users to engage with this material responsibly and to seek guidance from a trusted adult when necessary.
+Este recurso de aprendizaje no se recomienda para estudiantes menores de 13 años. Alentamos a los usuarios a interactuar con este material de manera responsable y a buscar la orientación de un adulto de confianza cuando sea necesario.
 </p>
 
 ## Lo que harás
 
-![A fluffy white cat with striking blue eyes and a pink nose sits across a windowsill and the back of a sofa, next to a potted plant in a decorative metal container. The windowsill is part of a cozy interior, with a floral cushion, a trailing green plant, and shelves. Through the window, a building is visible. In the foreground of the image, there is text that reads "HOME Hweet SWEET Home" in an elegant style, with some decoration.](images/prompt8.jpg)
+![Un gato blanco con ojos azules llamativos y una nariz rosa se sienta a lo largo de una ventana y la parte trasera de un sofá, junto a una maceta en un recipiente de metal decorativo. El vidriero es parte de un interior acogedor, con un cojín floral, una planta verde y estantes. A través de la ventana, un edificio es visible. En el primer plano de la imagen, hay un texto que dice "Hogar dulce hogar" en un estilo elegante, con algo de decoración.](images/prompt8.jpg)
 
-Welcome to the exciting world of AI image generation!
+Bienvenido al emocionante mundo de la generación de imágenes de IA!
 
-By following the steps in this project, you will learn how to create amazing images using an AI image generator.
+Siguiendo los pasos de este proyecto, aprenderás a crear imágenes asombrosas usando un generador de imágenes IA.
 
 ## --- collapse ---
 
-## title: More detail
+## título: Más detalles
 
-This project will help you start with simple ideas and turn them into detailed prompts that you can use to produce stunning images. You will explore how to add specific details; describe settings; include key elements; and think about colours, styles, and composition. Along the way, you will test your prompts, make adjustments, and see how each change helps you create your image.
+Este proyecto te ayudará a comenzar con ideas sencillas y a convertirlas en instrucciones detalladas que puedas utilizar para producir imágenes impresionantes. Explorarás cómo agregar detalles específicos, describir ajustes; incluir elementos clave; y pensar en colores, estilos y composición. A lo largo del camino, probarás tus indicaciones, realizarás ajustes y verás cómo cada cambio te ayuda a crear tu imagen.
 
 \--- /collapse ---
 
 ### Lo que necesitarás
 
-For this project, you will need access to an AI image generator.
+Para este proyecto, necesitará acceso a un generador de imágenes de IA.
 
-If you are under the minimum age limits to use AI image generators that are available online, or if you would prefer to host **your own** AI image generator on a Raspberry Pi computer, [follow our instructions here](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
+Si no cumple con los límites de edad mínimos para usar generadores de imágenes de IA disponibles en línea, o si prefiere alojar **su propio** generador de imágenes de IA en una computadora Raspberry Pi, [siga nuestras instrucciones aquí](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Free Online Image Generators
+#### Generadores gratuitos de imágenes en línea
 
-A free image generator that does not require you to register is [Craiyon](https://www.craiyon.com){:target="_blank"}, but you must be the [age of majority](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in your jurisdiction, or older, to use it ([see the terms](https://www.craiyon.com/terms){:target="_blank"} for more information).
+Un generador de imágenes gratuito que no requiere que te registres es [Craiyon](https://www.craiyon.com){:target="_blank"}, pero debes tener la [mayoría de edad](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} en tu jurisdicción, o más, para usarlo ([consulta los términos](https://www.craiyon.com/terms){:target="_blank"} para obtener más información).
 
-Other online tools are available, but require you to register with a current email address. Some examples include:
+Otras herramientas en línea están disponibles, pero requieren que se registre con una dirección de correo electrónico actual. Algunos ejemplos incluyen:
 
-- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (minimum age of 13, and if you are not of legal age to enter into the terms, you need permission from a parent/guardian to do so — [see the terms](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} for more information)
-- [Ideogram](https://www.ideogram.ai){:target="_blank"} (minimum age of 13, and if you are under the age of majority in your jurisdiction, a parent/guardian must accept the terms on your behalf — [see the terms](https://ideogram.ai/legal/tos){:target="_blank"} for more information)
-- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([see the terms](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (edad mínima de 13 años y, si no tiene la edad legal para aceptar los términos, necesita el permiso de un padre o tutor para hacerlo; [consulte los términos](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} para obtener más información)
+- [Ideograma](https://www.ideogram.ai){:target="_blank"} (edad mínima de 13 años y, si no ha alcanzado la mayoría de edad en su jurisdicción, un padre o tutor debe aceptar los términos en su nombre. [Consulte los términos](https://ideogram.ai/legal/tos){:target="_blank"} para obtener más información)
+- [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([ver los términos](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
 
-**If you sign up for an account with one of these services, please remember to follow their safety policies.**
+**Si te registras en una cuenta con uno de estos servicios, por favor recuerda seguir sus políticas de seguridad.**
 
 ## --- collapse ---
 
-## title:  Why do we recommend older learners use this project?
+## Título: ¿Por qué recomendamos que los estudiantes mayores utilicen este proyecto?
 
-It's important to understand how you can keep your personal information safe. The Raspberry Pi Foundation is very careful about protecting your data and your privacy, which is why we only recommend this project if you're over 13 years old.
+Es importante comprender cómo puede mantener segura su información personal. La Fundación Raspberry Pi tiene mucho cuidado con la protección de sus datos y su privacidad, es por eso que sólo recomendamos este proyecto si tienes más de 13 años.
 
-You might have noticed that many online services ask users to be at least 13 years old. This is because they handle and store data you provide, which can include personal information. Although these services follow strict rules to protect your data, sending information over the internet can sometimes be less secure.
+Quizás hayas notado que muchos servicios en línea piden a los usuarios que tengan al menos 13 años. Esto se debe a que manejan y almacenan los datos que usted proporciona, los cuales pueden incluir información personal. Aunque estos servicios siguen reglas estrictas para proteger sus datos, enviar información a través de Internet a veces puede ser menos seguro.
 
-It's also important to know that generative AI can sometimes create **content that isn’t accurate, fair, or appropriate**. These AI models can sometimes "hallucinate" and **produce information that sounds true but isn’t**. So, it’s important to **think carefully about the AI application’s output and double-check it**. As you work with generative AI, make sure to check the information and ask trusted sources if you’re unsure.
+También es importante saber que la IA generativa a veces puede crear **contenido que no es preciso, justo o apropiado**. Estos modelos de IA a veces pueden "alucinar" y **producir información que parece verdadera pero no lo es**. Por lo tanto, es importante **pensar detenidamente en el resultado de la aplicación de IA y verificarlo dos veces**. Al trabajar con IA generativa, asegúrese de verificar la información y preguntar a fuentes confiables si no está seguro.
 
-**Always look at AI-generated content with a careful and thoughtful mind.** If you need help, please ask a parent, guardian, or teacher to guide you.
+**Siempre mira el contenido generado por IA con una mente atenta y reflexiva.** Si necesitas ayuda, pídele orientación a un padre, tutor o maestro.
 
-Enjoy learning and creating with generative AI!
+¡Disfruta aprendiendo y creando con IA generativa!
 
 \--- /collapse ---
