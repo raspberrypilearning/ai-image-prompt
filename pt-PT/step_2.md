@@ -12,7 +12,7 @@ Exemplo: "Um gato."
 
 Executa este prompt no gerador de imagem. Vê o que produz.
 
-![Um gatinho laranja e branco com olhos grandes e expressivos, com um nariz cor-de-rosa, e está deitado numa superfície de madeira junto a alguns ramos de lavanda. O gatinho tem um laço cor-de-rosa no pescoço. Ao fundo, encontra-se um vaso de alfazema envolto em serapilheira, sobre um fundo rosa suave.](images/prompt.jpg)
+![Um gatinho laranja e branco com olhos grandes e expressivos, com um nariz cor-de-rosa, e está deitado numa superfície de madeira junto a alguns ramos de alfazema. O gatinho tem um laço cor-de-rosa no pescoço. Ao fundo, encontra-se um vaso de alfazema envolto em serapilheira, sobre um fundo rosa suave.](images/prompt.jpg)
 
 \--- /task ---
 
