@@ -15,6 +15,6 @@ steps:
     completion:
       - internal
   - 
-    title: Perguntas rápidas
+    title: O que você pode fazer agora?
     completion:
       - external
