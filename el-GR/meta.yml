@@ -1,0 +1,18 @@
+---
+title: Προτροπή σε μια γεννήτρια εικόνων με τεχνητή νοημοσύνη (ΤΝ)
+hero_image: images/banner.png
+description: Εξερεύνησε πώς να δημιουργείς εύστοχες προτροπές σε γεννήτριες εικόνων με ΤΝ
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Τι θα κάνεις
+    completion:
+      - engaged
+  - title: Προτροπή σε μια γεννήτρια εικόνων με τεχνητή νοημοσύνη (ΤΝ)
+    completion:
+      - internal
+  - title: Τι μπορείς να κάνεις τώρα;
+    completion:
+      - external
