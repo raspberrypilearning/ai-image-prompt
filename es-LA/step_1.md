@@ -24,7 +24,7 @@ Para este proyecto, necesitará acceso a un generador de imágenes de IA.
 
 Si no cumple con los límites de edad mínimos para usar generadores de imágenes de IA disponibles en línea, o si prefiere alojar **su propio** generador de imágenes de IA en una computadora Raspberry Pi, [siga nuestras instrucciones aquí](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Generadores gratuitos de imágenes en línea
+### Generadores gratuitos de imágenes en línea
 
 Un generador de imágenes gratuito que no requiere que te registres es [Craiyon](https://www.craiyon.com){:target="_blank"}, pero debes tener la [mayoría de edad](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} en tu jurisdicción, o más, para usarlo ([consulta los términos](https://www.craiyon.com/terms){:target="_blank"} para obtener más información).
 
