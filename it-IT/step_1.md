@@ -24,7 +24,7 @@ Per questo progetto hai bisogno di un generatore di immagini IA.
 
 Se non hai l’età minima richiesta per usare i generatori di immagini IA disponibili online o se preferisci ospitare il **tuo** generatore su un Raspberry Pi, [segui le nostre istruzioni qui](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Generatori di immagini online gratuiti
+### Generatori di immagini online gratuiti
 
 Un generatore di immagini gratuito che non richiede registrazione è [Craiyon](https://www.craiyon.com){:target="_blank"}. Tuttavia, devi avere raggiunto la [maggiore età](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} nella tua giurisdizione, o essere maggiorenne per utilizzarlo ([vedi i termini](https://www.craiyon.com/terms){:target="_blank"} per maggiori informazioni).
 
