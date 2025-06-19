@@ -24,7 +24,7 @@ Voor dit project heb je toegang nodig tot een AI-afbeeldingsgenerator.
 
 Als je niet voldoet aan de minimum leeftijdsgrenzen om AI-afbeeldingsgeneratoren te gebruiken die online beschikbaar zijn, of liever **je eigen** AI beeldgenerator host op een Raspberry Pi, [volg dan hier onze instructies](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Gratis online afbeeldinggeneratoren
+### Gratis online afbeeldinggeneratoren
 
 Een gratis afbeeldingengenerator waarvoor je je niet hoeft te registreren is [Craiyon](https://www.craiyon.com){:target="_blank"}, maar je moet de [meerderjarige leeftijd](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in jouw rechtsgebied hebben bereikt, of ouder zijn, om deze te kunnen gebruiken ([zie de voorwaarden](https://www.craiyon.com/terms){:target="_blank"} voor meer informatie).
 
