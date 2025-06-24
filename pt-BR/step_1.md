@@ -22,7 +22,7 @@ Este projeto ajudará você a começar com ideias simples e transformá-las em i
 
 Para este projeto, você precisará de acesso a um gerador de imagens de IA.
 
-Se você estiver abaixo dos limites mínimos de idade exigidos para usar geradores de imagens de IA disponíveis on-line, ou se preferir hospedar **seu próprio** gerador de imagens de IA em um computador Raspberry Pi, [siga nossas instruções aqui](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
+Se você estiver abaixo dos limites mínimos de idade exigidos para usar geradores de imagens de IA disponíveis on-line, ou se preferir hospedar **seu próprio** gerador de imagens de IA em um computador Raspberry Pi, [siga nossas instruções aqui](https://projects.raspberrypi.org/pt-BR/projects/ai-images-on-pi){:target="_blank"}.
 
 ### Geradores de imagens online gratuitos
 
