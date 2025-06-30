@@ -13,6 +13,5 @@ steps:
   - title: Напиши запит для генератора зображень ШІ
     completion:
       - internal
-  - title: Що ти тепер вмієш?
     completion:
       - external

@@ -13,6 +13,5 @@ steps:
   - title: Geef een aanwijzing aan een AI afbeeldingsgenerator
     completion:
       - internal
-  - title: Wat kun je nu doen?
     completion:
       - external
