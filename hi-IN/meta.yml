@@ -13,8 +13,4 @@ steps:
   - 
     title: AI इमेज जनरेटर को संकेत दें
     completion:
-      - internal
-  - 
-    title: अब आप क्या कर सकते हैं?
-    completion:
       - external
