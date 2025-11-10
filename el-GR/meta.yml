@@ -13,8 +13,4 @@ steps:
   - 
     title: Προτροπή σε μια γεννήτρια εικόνων με τεχνητή νοημοσύνη (ΤΝ)
     completion:
-      - internal
-  - 
-    title: Τι μπορείς να κάνεις τώρα;
-    completion:
       - external
