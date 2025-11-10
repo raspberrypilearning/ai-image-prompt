@@ -13,8 +13,4 @@ steps:
   - 
     title: Fornisci un prompt a un generatore di immagini IA
     completion:
-      - internal
-  - 
-    title: Cosa puoi fare adesso?
-    completion:
       - external
