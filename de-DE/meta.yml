@@ -1,6 +1,6 @@
-title: Prompt an AI image generator
+title: Einen KI-Bildgenerator anfragen
 hero_image: images/banner.png
-description: Explore how to create good prompts for AI image generators
+description: Entdecke, wie man gute Eingabeaufforderungen für KI-Bildgeneratoren erstellen kann
 version: 4
 listed: true
 copyedit: false
@@ -11,10 +11,6 @@ steps:
     completion:
       - engaged
   - 
-    title: Prompt an AI image generator
-    completion:
-      - internal
-  - 
-    title: Was kannst du jetzt tun?
+    title: Einen AI-Bildgenerator anfragen
     completion:
       - external
