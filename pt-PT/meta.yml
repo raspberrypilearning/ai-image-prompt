@@ -13,8 +13,4 @@ steps:
   - 
     title: Prompt um gerador de imagens de IA
     completion:
-      - internal
-  - 
-    title: O que se segue?
-    completion:
       - external
