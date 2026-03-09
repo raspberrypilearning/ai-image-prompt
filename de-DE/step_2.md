@@ -110,7 +110,7 @@ Beispiel: "Eine Nahaufnahme einer flauschigen weißen Katze **mit blauen Augen**
 
 Führe die neue Eingabeaufforderung aus. Nehme die notwendigen Änderungen vor, bis das Bild deinen Vorstellungen entspricht.
 
-![Eine flauschige weiße Katze mit markanten blauen Augen und einer rosa Nase sitzt auf der Rückseite eines Sofas angelehnt an einer Fensterbank, neben einer Topfpflanze in einem dekorativen Metallbehälter. Die Fensterbank ist Teil einer gemütlichen Inneneinrichtung mit einem Blumenkissen, einer grünen Hängepflanze und Regalen. Durch das Fenster sieht man ein Gebäude. Im Vordergrund des Bildes steht in eleganter Schrift "HOME Hweet SWEET Home" zusammen mit einigen Dekorationen.](images/prompt8.jpg)
+Eine flauschige weiße Katze mit auffallend blauen Augen und einer rosa Nase sitzt quer über ein Fensterbrett und die Lehne eines Sofas, neben einer Topfpflanze in einem dekorativen Metallbehälter. Die Fensterbank ist Teil einer gemütlichen Inneneinrichtung mit einem Blumenkissen, einer grünen Hängepflanze und Regalen. Durch das Fenster sieht man ein Gebäude. Im Vordergrund des Bildes befindet sich der Text „HOME Hweet SWEET Home“ in elegantem Stil, verziert mit einigen Dekorationen.](images/prompt8.jpg)
 
 \--- /task ---
 
