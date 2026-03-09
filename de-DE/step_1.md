@@ -1,10 +1,10 @@
 <p style='border-left: solid; border-width:10px; border-color: #FFA500; background-color: #FFFACD; padding: 10px;'>
-Dieses Lernmaterial wird nicht für Lernende unter 13 Jahren empfohlen. Wir empfehlen Benutzern, sich verantwortungsbewusst mit diesem Material zu befassen und bei Bedarf einen vertrauenswürdigen Erwachsenen um Hilfe zu bitten.
+Dieses Lernmaterial wird für Lernende unter 13 Jahren nicht empfohlen. Wir empfehlen Benutzern, sich verantwortungsbewusst mit diesem Material zu befassen und bei Bedarf einen vertrauenswürdigen Erwachsenen um Hilfe zu bitten.
 </p>
 
 ## Das wirst du machen
 
-![Eine flauschige weiße Katze mit markanten blauen Augen und einer rosa Nase sitzt auf der Rückseite eines Sofas angelehnt an einer Fensterbank, neben einer Topfpflanze in einem dekorativen Metallbehälter. Die Fensterbank ist Teil einer gemütlichen Inneneinrichtung mit einem Blumenkissen, einer grünen Hängepflanze und Regalen. Durch das Fenster sieht man ein Gebäude. Im Vordergrund des Bildes steht in eleganter Schrift "HOME Hweet SWEET Home" zusammen mit einigen Dekorationen.](images/prompt8.jpg)
+Eine flauschige weiße Katze mit auffallend blauen Augen und einer rosa Nase sitzt quer über ein Fensterbrett und die Lehne eines Sofas, neben einer Topfpflanze in einem dekorativen Metallbehälter. Die Fensterbank ist Teil einer gemütlichen Inneneinrichtung mit einem Blumenkissen, einer grünen Hängepflanze und Regalen. Durch das Fenster sieht man ein Gebäude. Im Vordergrund des Bildes befindet sich der Text „HOME Hweet SWEET Home“ in elegantem Stil, verziert mit einigen Dekorationen.](images/prompt8.jpg)
 
 Willkommen in der spannenden Welt der KI-Bildgenerierung!
 
@@ -14,15 +14,15 @@ Indem du den Schritten in diesem Projekt folgst, lernst du, wie man mit einem KI
 
 ## title: Mehr Details
 
-Dieses Projekt wird dir helfen, mit einfachen Ideen zu beginnen und sie in detaillierte Eingaben (Prompts) zu verwandeln, mit denen du atemberaubende Bilder erstellen kannst. Du wirst erfahren, wie man bestimmte Details hinzufügt; Einstellungen beschreibt; Schlüsselelemente einbezieht; und über Farben, Stile und Komposition nachdenkt. Dabei wirst du Eingabeaufforderungen testen, Anpassungen vornehmen, und beobachten wie jede Änderung hilft dein Bild zu erstellen.
+Dieses Projekt wird dir helfen, mit einfachen Ideen zu beginnen und sie in detaillierte Eingaben (Prompts) zu verwandeln, mit denen du atemberaubende Bilder erstellen kannst. Du wirst erfahren, wie man bestimmte Details hinzufügt; Einstellungen beschreibt; Schlüsselelemente einbezieht; und über Farben, Stile und Komposition nachdenkt. Dabei wirst du Prompts testen, Anpassungen vornehmen, und beobachten wie jede Änderung hilft dein Bild zu erstellen.
 
 \--- /collapse ---
 
 ### Was du brauchst
 
-Für dieses Projekt, brauchst du Zugriff zu einem KI-Bildgenerator.
+Für dieses Projekt brauchst du Zugriff auf einen KI-Bildgenerator.
 
-Falls du unter dem Mindestalter bist einen online verfügbaren KI-Bildgenerator zu verwenden, oder du **deinen eigenen** KI-Bildgenerator auf einem Raspberry Pi Computer verwenden möchtest, [folge unsere Anweisungen hier](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
+Falls du unter dem Mindestalter bist einen online verfügbaren KI-Bildgenerator zu verwenden, oder du **deinen eigenen** KI-Bildgenerator auf einem Raspberry Pi Computer verwenden möchtest, [folge unseren Anweisungen hier](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
 ### Kostenlose Online-Bildgeneratoren
 
