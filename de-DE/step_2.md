@@ -1,16 +1,16 @@
 ## Einen KI-Bildgenerator anfragen
 
-Befolge diese Schritte, um zu erfahren, wie du einfache Eingabeaufforderungen in detaillierte Anweisungen umwandelst, mit denen du beeindruckende Bilder erstellen kannst.
+Befolge diese Schritte, um zu erfahren, wie du einfache Prompts in detaillierte Anweisungen umwandelst, mit denen du beeindruckende Bilder erstellen kannst.
 
 \--- task ---
 
-**Beginne mit einer einfachen Eingabeaufforderung**
+**Beginne mit einem einfachen Prompt**
 
 Beginne mit einer einfachen Idee. Das ist dein Ausgangspunkt – das Objekt des Bildes.
 
 Beispiel: "Eine Katze".
 
-Führe diese Eingabeaufforderung im Bildgenerator aus. Schau was es produziert.
+Führe diesen Prompt im Bildgenerator aus. Schau was er produziert.
 
 ![Ein orange-weißes Kätzchen mit großen, ausdrucksstarken Augen und einer rosa Nase liegt auf einer Holzoberfläche neben einigen Lavendelzweigen. Das Kätzchen hat eine rosa Schleife um den Hals. Im Hintergrund steht ein leinen-umwickelter Topf mit Lavendel vor einem zartrosa Hintergrund.](images/prompt.jpg)
 
