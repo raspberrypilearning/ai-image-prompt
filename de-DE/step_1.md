@@ -27,7 +27,7 @@ Falls du unter dem Mindestalter bist einen online verfügbaren KI-Bildgenerator 
 
 ### Kostenlose Online-Bildgeneratoren
 
-[Craiyon](https://www.craiyon.com){:target="_blank"} ist ein kostenloser Bildgenerator, für den du dich nicht registrieren musst. Aber du musst nach deiner Gerichtsbarkeit [volljährig] oder älter sein(https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"}, um ihn zu verwenden(für weitere Informationen [sieh dir die Bedingungen an](https://www.craiyon.com/terms){:target="_blank"}).
+[Craiyon](https://www.craiyon.com){:target="_blank"} ist ein kostenloser Bildgenerator, für den du dich nicht registrieren musst. Aber du musst nach deiner Gerichtsbarkeit [volljährig](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} oder älter sein, um ihn zu verwenden (für weitere Informationen [sieh dir die Bedingungen an](https://www.craiyon.com/terms){:target="_blank"}).
 
 Andere Online-Tools sind verfügbar, aber du musst dich mit einer aktuellen E-Mail-Adresse registrieren. Einige Beispiele sind:
 
