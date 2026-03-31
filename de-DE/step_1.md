@@ -32,7 +32,6 @@ Falls du unter dem Mindestalter bist einen online verfügbaren KI-Bildgenerator 
 Andere Online-Tools sind verfügbar, aber du musst dich mit einer aktuellen E-Mail-Adresse registrieren. Einige Beispiele sind:
 
 - [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (Mindestalter ist 13 Jahre, und falls du nicht volljährig bist, benötigst du die Erlaubnis eines Elternteils/ Erziehungsberechtigten um die Bedingungen einzugehen - weitere Informationen zu den [Bedingungen findest du hier](https://www.adobe.com/uk/legal/terms.html){:target="_blank"})
-
 - [Ideogram](https://www.ideogram.ai){:target="_blank"} (Mindestalter von 13 Jahren und wenn du noch nicht volljährig in deinem Rechtsraum bist, ein Elternteil/ Erziehungsberechtigter muss die Bedingungen in deinem Namen akzeptieren — [siehe die Bedingungen](https://ideogram.ai/legal/tos){:target="_blank"} für weitere Informationen)
 - [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([sieh die Bedingungen an](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
 
