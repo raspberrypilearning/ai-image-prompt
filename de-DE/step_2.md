@@ -8,7 +8,7 @@ Befolge diese Schritte, um zu erfahren, wie du einfache Prompts in detaillierte 
 
 Beginne mit einer einfachen Idee. Das ist dein Ausgangspunkt – das Objekt des Bildes.
 
-Beispiel: "Eine Katze".
+Beispiel: „Eine Katze“.
 
 Führe diesen Prompt im Bildgenerator aus. Schau was er produziert.
 
@@ -22,7 +22,7 @@ Führe diesen Prompt im Bildgenerator aus. Schau was er produziert.
 
 Denke dir Details aus. Was für eine Katze? Was tut sie?
 
-Beispiel: "Eine **flauschige weiße** Katze **sitzt auf einer Fensterbank**."
+Beispiel: „Eine **flauschige weiße** Katze **sitzt auf einer Fensterbank**.“
 
 Führe diesen neuen Prompt aus und vergleiche mit dem ersten Bild. Wie hat es sich verändert?
 
@@ -50,7 +50,7 @@ Führe den neuen Prompt aus. Beobachte die neuen Elemente, die erscheinen.
 
 Welche anderen Dinge sollten in der Szene sein?
 
-Beispiel: "Eine flauschige weiße Katze sitzt auf einer Fensterbank **mit einer Topfpflanze neben ihr**, in einem gemütlichen Wohnzimmer."
+Beispiel: „Eine flauschige weiße Katze sitzt auf einer Fensterbank **mit einer Topfpflanze neben ihr**, in einem gemütlichen Wohnzimmer.“
 
 Führe den neuen Prompt aus. Wie verändern die zusätzlichen Details das Bild?
 
@@ -64,7 +64,7 @@ Führe den neuen Prompt aus. Wie verändern die zusätzlichen Details das Bild?
 
 Farben und Stile verleihen deinem Bild Charakter. Welche Stimmung oder Stil möchtest du?
 
-Beispiel: "In einem gemütlichen, **Vintage-Stil** Wohnzimmer sitzt eine flauschige weiße Katze auf einer Fensterbank mit einer **grünen** Topfpflanze neben ihr,."
+Beispiel: „In einem gemütlichen, **Vintage-Stil** Wohnzimmer sitzt eine flauschige weiße Katze auf einer Fensterbank mit einer **grünen** Topfpflanze neben ihr,.“
 
 Führe den Prompt aus. Beobachte, wie die Farben und der Stil das Bild beeinflussen.
 
@@ -92,11 +92,11 @@ Führe den Prompt aus und sieh dir an, wie die veränderte Komposition den Fokus
 
 Wenn du Text im Bild haben willst, gib ihn und wie er aussehen soll an.
 
-Beispiel: "Eine Nahaufnahme einer flauschigen weißen Katze auf einer Fensterbank, die neben einer grünen Topfpflanze in einem gemütlichen Wohnzimmer im Vintage-Stil sitzt, **mit dem Text 'Home Sweet Home' in kursiver Schrift darunter**."
+Beispiel: „Eine Nahaufnahme einer flauschigen weißen Katze auf einer Fensterbank, die neben einer grünen Topfpflanze in einem gemütlichen Wohnzimmer im Vintage-Stil sitzt, **mit dem Text 'Home Sweet Home' in kursiver Schrift darunter**.“
 
 Führe den Prompt aus. Überprüfe, ob der Text so erscheint, wie du es willst und gut zum Bild passt.
 
-![Eine flauschige weiße Katze mit grünen Augen und einer rosa Nase sitzt auf einer dünnen Matte auf einer Fensterbank, und schaut aus dem Fenster. Die Fensterbank ist mit Topfpflanzen dekoriert, darunter eine Sukkulente in einem grünen Topf. Durch das Fenster hat man einen Blick auf ein Gebäude mit mehreren Fenstern. Im Vordergrund des Bildes steht der Text "SUSCET Home sweet Home" in einem eleganten Stil mit etwas Dekoration. Die gesamte Szene vermittelt eine gemütliche und heimelige Atmosphäre.](images/prompt7.jpg)
+![Eine flauschige weiße Katze mit grünen Augen und einer rosa Nase sitzt auf einer dünnen Matte auf einer Fensterbank, und schaut aus dem Fenster. Die Fensterbank ist mit Topfpflanzen dekoriert, darunter eine Sukkulente in einem grünen Topf. Durch das Fenster hat man einen Blick auf ein Gebäude mit mehreren Fenstern. Im Vordergrund des Bildes steht der Text „SUSCET Home sweet Home“ in einem eleganten Stil mit etwas Dekoration. Die gesamte Szene vermittelt eine gemütliche und heimelige Atmosphäre.](images/prompt7.jpg)
 
 --- /task ---
 
@@ -106,11 +106,11 @@ Führe den Prompt aus. Überprüfe, ob der Text so erscheint, wie du es willst u
 
 Teste deinen Prompt mit dem Bildgenerator. Wenn es nicht perfekt ist, passe die Details an und versuche es erneut. Auf den vorherigen Bildern ist dir vielleicht aufgefallen, dass sich die Augenfarbe der Katze geändert hat. Du könntest das jetzt beheben.
 
-Beispiel: "Eine Nahaufnahme einer flauschigen weißen Katze **mit blauen Augen**, die auf einer Fensterbank neben einer grünen Pflanze in einem gemütlichen, im Vintage-Stil gestalteten Wohnzimmer sitzt, mit dem Text "Home Sweet Home" in kursiver Schrift darunter".
+Beispiel: „Eine Nahaufnahme einer flauschigen weißen Katze **mit blauen Augen**, die auf einer Fensterbank neben einer grünen Pflanze in einem gemütlichen, im Vintage-Stil gestalteten Wohnzimmer sitzt, mit dem Text „Home Sweet Home“ in kursiver Schrift darunter“.
 
 Führe den neuen Prompt aus. Nimm die notwendigen Änderungen vor, bis das Bild deinen Vorstellungen entspricht.
 
-Eine flauschige weiße Katze mit auffallend blauen Augen und einer rosa Nase sitzt, neben einer Topfpflanze in einem dekorativen Metallbehälter, quer über ein Fensterbrett und die Lehne eines Sofas. Die Fensterbank ist Teil einer gemütlichen Inneneinrichtung mit einem Blumenkissen, einer grünen Hängepflanze und Regalen. Durch das Fenster sieht man ein Gebäude. Im Vordergrund des Bildes befindet sich der Text „HOME Hweet SWEET Home“ in elegantem Stil, verziert mit einigen Dekorationen.](images/prompt8.jpg)
+![Eine flauschige weiße Katze mit auffallend blauen Augen und einer rosa Nase sitzt, neben einer Topfpflanze in einem dekorativen Metallbehälter, quer über ein Fensterbrett und die Lehne eines Sofas. Die Fensterbank ist Teil einer gemütlichen Inneneinrichtung mit einem Blumenkissen, einer grünen Hängepflanze und Regalen. Durch das Fenster sieht man ein Gebäude. Im Vordergrund des Bildes befindet sich der Text „HOME Hweet SWEET Home“ in elegantem Stil, verziert mit einigen Dekorationen.](images/prompt8.jpg)
 
 --- /task ---
 
