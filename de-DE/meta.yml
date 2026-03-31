@@ -1,0 +1,16 @@
+title: Einen KI-Bildgenerator anfragen
+hero_image: images/banner.png
+description: Entdecke, wie man gute Anfragen (Prompts) für KI-Bildgeneratoren erstellen kann
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - 
+    title: Das wirst du machen
+    completion:
+      - engaged
+  - 
+    title: Einen AI-Bildgenerator anfragen
+    completion:
+      - external
