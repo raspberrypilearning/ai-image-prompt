@@ -1,0 +1,16 @@
+title: Fornisci un prompt a un generatore di immagini IA
+hero_image: images/banner.png
+description: Esplora come creare prompt efficaci per generatori di immagini IA
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - title: Cosa creerai
+    completion:
+    - engaged
+  - title: Fornisci un prompt a un generatore di immagini IA
+    completion:
+    - internal
+    completion: 
+    - external
