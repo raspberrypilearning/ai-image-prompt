@@ -6,11 +6,11 @@ listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - 
-    title: Cosa creerai
+  - title: Cosa creerai
     completion:
-      - engaged
-  - 
-    title: Fornisci un prompt a un generatore di immagini IA
+    - engaged
+  - title: Fornisci un prompt a un generatore di immagini IA
     completion:
-      - external
+    - internal
+    completion: 
+    - external

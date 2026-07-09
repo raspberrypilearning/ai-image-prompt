@@ -10,23 +10,24 @@ Ti diamo il benvenuto nell'affascinante mondo della generazione di immagini IA!
 
 Seguendo i passaggi di questo progetto, scoprirai come creare immagini sorprendenti grazie a un generatore di immagini basato sull’intelligenza artificiale.
 
-## --- collapse ---
-
-## title: Maggiori dettagli
+--- collapse ---
+---
+title: Maggiori dettagli
+---
 
 Questo progetto ti aiuterà a partire da idee semplici e a trasformarle in prompt dettagliati, utili per creare immagini straordinarie. Imparerai ad aggiungere dettagli specifici, descrivere ambientazioni, includere elementi chiave e scegliere colori, stili e composizione. Durante il percorso, testerai i tuoi prompt, apporterai modifiche e scoprirai come ogni cambiamento contribuirà a dare vita alla tua immagine.
 
-\--- /collapse ---
+--- /collapse ---
 
 ### Di cosa avrai bisogno
 
 Per questo progetto hai bisogno di un generatore di immagini IA.
 
-Se non hai l’età minima richiesta per usare i generatori di immagini IA disponibili online o se preferisci ospitare il **tuo** generatore su un Raspberry Pi, [segui le nostre istruzioni qui](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
+Se non hai l’età minima richiesta per usare i generatori di immagini IA disponibili online o se preferisci ospitare il **tuo** generatore su un Raspberry Pi, [segui le nostre istruzioni qui](https://projects.raspberrypi.org/it-IT/projects/ai-images-on-pi){:target="_blank"}.
 
 ### Generatori di immagini online gratuiti
 
-Un generatore di immagini gratuito che non richiede registrazione è [Craiyon](https://www.craiyon.com){:target="_blank"}. Tuttavia, devi avere raggiunto la [maggiore età](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} nella tua giurisdizione, o essere maggiorenne per utilizzarlo ([vedi i termini](https://www.craiyon.com/terms){:target="_blank"} per maggiori informazioni).
+Un generatore di immagini gratuito che non richiede registrazione è [Craiyon](https://www.craiyon.com){:target="_blank"}. Tuttavia, devi avere raggiunto la [maggiore età](https://it.wikipedia.org/wiki/Maggiore_et%C3%A0){:target="_blank"} nella tua giurisdizione, o essere maggiorenne per utilizzarlo ([vedi i termini](https://www.craiyon.com/terms){:target="_blank"} per maggiori informazioni).
 
 Esistono anche altri strumenti online, ma la maggior parte richiede la registrazione con un indirizzo email valido. Alcuni esempi includono:
 
@@ -36,9 +37,10 @@ Esistono anche altri strumenti online, ma la maggior parte richiede la registraz
 
 **Se ti iscrivi a uno di questi servizi, ricordati di seguire le loro norme di sicurezza.**
 
-## --- collapse ---
-
-## title: Perché consigliamo questo progetto agli studenti più grandi?
+--- collapse ---
+---
+title: Perché consigliamo questo progetto agli studenti più grandi?
+---
 
 È importante sapere come proteggere le proprie informazioni personali. La Raspberry Pi Foundation tiene molto alla sicurezza dei dati e alla privacy, ed è per questo che consigliamo questo progetto solo a chi ha più di 13 anni.
 
@@ -50,4 +52,4 @@ Inoltre, è importante sapere che l'intelligenza artificiale generativa può a v
 
 Divertiti ad imparare e a creare con l'intelligenza artificiale generativa!
 
-\--- /collapse ---
+--- /collapse ---
