@@ -55,8 +55,7 @@ Esempio: "Un soffice gatto bianco seduto su un davanzale con una pianta in vaso 
 
 Esegui il prompt aggiornato. In che modo i dettagli aggiuntivi cambiano l'immagine?
 
-![Un soffice gatto bianco con grandi occhi rotondi e blu e un nasino rosa è seduto su un davanzale. Il davanzale è decorato con diverse piante in vaso, tra cui una piccola pianta grassa e una pianta a foglia più grande. Sullo sfondo, un interno accogliente con tende scure, un cuscino verde e una coperta
-lavorata a maglia.](images/prompt4.jpg)
+![Un soffice gatto bianco con grandi occhi rotondi e blu e un nasino rosa è seduto su un davanzale. Il davanzale è decorato con diverse piante in vaso, tra cui una piccola pianta grassa e una pianta a foglia più grande. Sullo sfondo, un interno accogliente con tende scure, un cuscino verde e una coperta lavorata a maglia.](images/prompt4.jpg)
 
 \--- /task ---
 
@@ -108,7 +107,7 @@ Esegui il prompt. Controlla se il testo appare come desiderato e si integra bene
 
 Prova il tuo prompt con il generatore di immagini. Se il risultato non è perfetto, modifica i dettagli e riprova. Guardando le immagini precedenti, potresti aver notato che il colore degli occhi del gatto è cambiato. Ora puoi correggerlo.
 
-Esempio: "Un primo piano di un soffice gatto bianco \*_con occhi blu_ seduto sul davanzale di una finestra con una pianta verde in vaso accanto, in un accogliente soggiorno in stile vintage, con il testo 'Home Sweet Home' in corsivo in basso."
+Esempio: "Un primo piano di un soffice gatto bianco **con occhi blu** seduto sul davanzale di una finestra con una pianta verde in vaso accanto, in un accogliente soggiorno in stile vintage, con il testo 'Home Sweet Home' in corsivo in basso."
 
 Esegui il prompt aggiornato. Apporta tutte le modifiche necessarie finché l'immagine non corrisponde alla tua idea.
 
