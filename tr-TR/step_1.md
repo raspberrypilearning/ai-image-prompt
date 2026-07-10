@@ -12,7 +12,7 @@ Bu projedeki adımları takip ederek, yapay zekâ destekli bir görüntü oluşt
 
 ## --- collapse ---
 
-## başlık: Daha fazla detay
+## title: Daha fazla detay
 
 Bu proje, basit fikirlerden yola çıkarak, çarpıcı görüntüler üretmek için kullanabileceğiniz ayrıntılı komutlar oluşturmanıza yardımcı olacaktır. Bu derste, belirli ayrıntıları nasıl ekleyeceğinizi; ortamları nasıl tanımlayacağınızı; temel unsurları nasıl dahil edeceğinizi; ve renkler, stiller ve kompozisyon hakkında nasıl düşüneceğinizi keşfedeceksiniz. Bu süreçte, komutlarınızı test edecek, ayarlamalar yapacak ve her değişikliğin görüntünüzü oluşturmanıza nasıl yardımcı olduğunu göreceksiniz.
 
@@ -38,7 +38,7 @@ Başka çevrimiçi araçlar da mevcuttur, ancak bunlar için geçerli bir e-post
 
 ## --- collapse ---
 
-## başlık: Neden daha büyük yaştaki öğrencilerin bu projeyi kullanmasını öneriyoruz?
+## title: Neden daha büyük yaştaki öğrencilerin bu projeyi kullanmasını öneriyoruz?
 
 Kişisel bilgilerinizi nasıl güvende tutabileceğinizi anlamak önemlidir. Raspberry Pi, verilerinizin ve gizliliğinizin korunması konusunda son derece titiz davranmaktadır; bu nedenle bu projeyi yalnızca 13 yaşından büyük kişilere öneriyoruz.
 
