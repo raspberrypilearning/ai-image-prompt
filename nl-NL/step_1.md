@@ -10,22 +10,21 @@ Welkom in de spannende wereld van AI beeldgeneratie!
 
 Door de stappen in dit project te volgen, leer je hoe je geweldige afbeeldingen kunt maken met behulp van een AI-afbeeldingsgenerator.
 
---- collapse ---
----
-title: Meer details
----
+## --- collapse ---
+
+## title: Meer details
 
 Dit project helpt je om te beginnen met eenvoudige ideeën en deze om te zetten in gedetailleerde prompts die je kunt gebruiken om verbluffende afbeeldingen te produceren. Je leert hoe je specifieke details toevoegt, hoe je omgevingen beschrijft, hoe je belangrijke elementen opneemt en hoe je nadenkt over kleuren, stijlen en compositie. Onderweg zal je je prompts testen, aanpassingen maken en zien hoe elke wijziging je helpt om je afbeelding te maken.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Wat je nodig hebt
 
 Voor dit project heb je toegang nodig tot een AI-afbeeldingsgenerator.
 
-Als je niet voldoet aan de minimum leeftijdsgrenzen om AI-afbeeldingsgeneratoren te gebruiken die online beschikbaar zijn, of liever **je eigen** AI beeldgenerator host op een Raspberry Pi, [volg dan hier onze instructies](https://projects.raspberrypi.org/nl-NL/projects/ai-images-on-pi){:target="_blank"}.
+Als je niet voldoet aan de minimum leeftijdsgrenzen om AI-afbeeldingsgeneratoren te gebruiken die online beschikbaar zijn, of liever **je eigen** AI beeldgenerator host op een Raspberry Pi, [volg dan hier onze instructies](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Gratis online afbeeldinggeneratoren
+### Gratis online afbeeldinggeneratoren
 
 Een gratis afbeeldingengenerator waarvoor je je niet hoeft te registreren is [Craiyon](https://www.craiyon.com){:target="_blank"}, maar je moet de [meerderjarige leeftijd](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} in jouw rechtsgebied hebben bereikt, of ouder zijn, om deze te kunnen gebruiken ([zie de voorwaarden](https://www.craiyon.com/terms){:target="_blank"} voor meer informatie).
 
@@ -37,10 +36,9 @@ Er zijn ook andere online tools beschikbaar, maar hiervoor moet je je registrere
 
 **Als je je registreert voor een account bij een van deze diensten, vergeet dan niet om hun veiligheidsbeleid te volgen.**
 
---- collapse ---
----
-title: Waarom raden wij oudere leerlingen aan dit project te gebruiken?
----
+## --- collapse ---
+
+## title: Waarom raden wij oudere leerlingen aan dit project te gebruiken?
 
 Het is belangrijk om te begrijpen hoe je je persoonlijke gegevens veilig kunt bewaren. De Raspberry Pi Foundation hecht veel waarde aan de bescherming van jouw gegevens en privacy, daarom raden wij dit project alleen aan als je ouder bent dan 13 jaar.
 
@@ -52,4 +50,4 @@ Het is ook belangrijk om te weten dat generatieve AI soms **inhoud kan maken die
 
 Veel plezier met leren en creëren met generatieve AI!
 
---- /collapse ---
+\--- /collapse ---

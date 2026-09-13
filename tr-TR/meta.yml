@@ -6,12 +6,11 @@ listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Ne yapacaksınız
+  - 
+    title: Ne yapacaksınız
     completion:
-    - engaged
-  - title: Bir yapay zekâ görsel oluşturucuya komut ver
+      - engaged
+  - 
+    title: Bir yapay zekâ görsel oluşturucuya komut ver
     completion:
-    - internal
-    completion: 
-    - external
-    
+      - external
