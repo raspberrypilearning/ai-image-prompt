@@ -1,0 +1,16 @@
+title: AI इमेज जनरेटर को संकेत दें
+hero_image: images/banner.png
+description: जानें कि AI इमेज जनरेटर के लिए अच्छे प्रॉम्प्ट कैसे बनाएं
+version: 4
+listed: true
+copyedit: false
+last_tested: "2022-05-19"
+steps:
+  - 
+    title: आप क्या बनाएँगे
+    completion:
+      - engaged
+  - 
+    title: AI इमेज जनरेटर को संकेत दें
+    completion:
+      - external
