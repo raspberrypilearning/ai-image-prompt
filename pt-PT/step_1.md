@@ -10,14 +10,13 @@ Bem-vindo ao emocionante mundo de gerar imagens com IA!
 
 Ao seguires os passos deste projeto vais aprender como criar imagens incríveis usando um gerador de imagens de IA.
 
---- collapse ---
----
-title: Mais detalhes
----
+## --- collapse ---
+
+## title: Mais detalhes
 
 Este projeto vai ajudar-te a começar com ideias simples e torná-las em prompts detalhadas, que podes usar para produzir imagens impressionantes. Vais explorar como adicionar detalhes específicos; descrever configurações; incluir elementos-chave; e pensar em cores, estilos e composição. Ao longo do caminho, vais testar os teus prompts, fazer ajustes e ver como cada alteração vai ajudar a criar a tua imagem.
 
---- /collapse ---
+\--- /collapse ---
 
 ### O que vais precisar
 
@@ -37,10 +36,9 @@ Estão disponíveis outras ferramentas online, mas exigem que faças um registo 
 
 **Se iniciares sessão numa conta com um destes serviços, lembra-te de seguir as suas políticas de segurança.**
 
---- collapse ---
----
-title: Porque recomendamos que os alunos mais velhos usem este recurso?
----
+## --- collapse ---
+
+## title: Porque recomendamos que os alunos mais velhos usem este recurso?
 
 É importante entender como podes manter as tuas informações pessoais seguras. A Fundação Raspberry Pi é muito cuidadosa na proteção dos seus dados e da sua privacidade, e é por isso que recomendamos este projeto se tiver mais de 13 anos.
 
@@ -52,4 +50,4 @@ Deves ter notado que muitos serviços online pedem aos utilizadores que tenham p
 
 Diverte-te a aprender e a criar com a IA generativa!
 
---- /collapse ---
+\--- /collapse ---
