@@ -2,7 +2,7 @@
 
 Bu adımları izleyerek basit komutları, muhteşem görseller oluşturmanıza yardımcı olacak ayrıntılı talimatlara nasıl dönüştürebileceğinizi keşfedin.
 
---- task ---
+\--- task ---
 
 **Basit bir komutla başlayın**
 
@@ -14,9 +14,9 @@ Bu komutu görüntü oluşturucuda çalıştırın. Bakalım ne üretecek.
 
 ![Büyük, anlamlı gözleri ve pembe burnu olan turuncu ve beyaz bir kedi yavrusu, bazı lavanta dallarının yanında ahşap bir yüzey üzerinde yatıyor. Yavru kedinin boynunda pembe bir fiyonk var. Arka planda, yumuşak pembe bir fonun önünde çuval beziyle sarılmış bir lavanta saksısı bulunmaktadır.](images/prompt.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Ayrıntıları ekleyin**
 
@@ -28,9 +28,9 @@ Bu yeni komutu çalıştırın ve ilk görüntüyle karşılaştırın. Nasıl d
 
 ![Büyük, yuvarlak, mavi gözlü ve pembe burunlu, kabarık beyaz bir kedi pencere pervazında oturuyor. Kedinin tüyleri uzun ve yumuşak. Pencerede yağmur damlaları var ve pencereden bir bina görünüyor. Kedinin arkasındaki pencere pervazında küçük bir saksı bitkisi bulunmaktadır.](images/prompt2.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Arka planı betimleyin**
 
@@ -42,9 +42,9 @@ Güncellenmiş komutu çalıştırın. Ortaya çıkan yeni unsurlara dikkat edin
 
 ![Büyük, yuvarlak, mavi gözlü ve pembe burunlu, kabarık beyaz bir kedi pencere pervazında oturuyor. Güneş ışığı pencereden içeri giriyor. Kedi ince bir hasırın üzerinde oturuyor ve kedinin yanında çuval beziyle sarılmış bir saksıda küçük bir bitki var. Arka planda perdeler, yastıklı bir kanepe ve lamba ile saksı bitkisi gibi eşyaların bulunduğu raflarla sıcak ve rahat bir oda yer almaktadır.](images/prompt3.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Temel unsurları dahil edin**
 
@@ -56,9 +56,9 @@ Güncellenmiş komutu çalıştırın. Ek detaylar görüntüyü nasıl değişt
 
 ![Yeşil gözlü ve pembe burunlu, kabarık beyaz bir kedi pencere pervazında oturuyor. Pencere pervazı, küçük bir sukulent ve daha büyük yapraklı bir bitki de dahil olmak üzere çeşitli saksı bitkileriyle süslenmiştir. Arka planda koyu renk perdeler, yeşil bir yastık ve örgü bir battaniye bulunan rahat bir iç mekan yer alıyor.](images/prompt4.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Renk ve stilleri belirtin**
 
@@ -70,9 +70,9 @@ Komutu çalıştırın. Renklerin ve stilin görüntüyü nasıl etkilediğine b
 
 ![Koyu gözleri ve pembe burnu olan kabarık beyaz bir kedi pencere pervazında oturuyor. Pencere pervazı, dikenli bir sukulent, küçük yapraklı bir bitki ve dekoratif bir saksıda geniş yapraklı daha büyük bir bitki de dahil olmak üzere çeşitli saksı bitkileriyle süslenmiştir. Kedinin arkasındaki pencere eski ve hafif buzlu, pencereden ise bir tuğla duvar görünüyor. Arka planda açık renk perdeler, bir yastık ve rafların bulunduğu sıcak ve rahat bir iç mekân yer almaktadır.](images/prompt5.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Kompozisyonu düşünün**
 
@@ -84,9 +84,9 @@ Komutu çalıştırın ve kompozisyonun değiştirilmesinin görüntünün odak 
 
 ![Yeşil gözlü ve pembe burunlu, kabarık beyaz bir kedi pencere pervazındaki bir battaniyenin üzerinde oturuyor. Pencere pervazı, yeşil bir saksıda sarkıcı bir sukulent ve bir de sarkıt bitki de dahil olmak üzere çeşitli saksı bitkileriyle süslenmiştir. Arka planda yeşil bir minder, bir lamba ve başka bir bitkinin bulunduğu rahat bir iç mekan yer alıyor.](images/prompt6.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Dilerseniz metin ekleyebilirsiniz.**
 
@@ -98,9 +98,9 @@ Komutu çalıştırın. Metnin istediğiniz gibi görünüp görünmediğini ve 
 
 ![Yeşil gözlü ve pembe burunlu, kabarık beyaz bir kedi, pencere pervazındaki ince bir hasırın üzerinde oturmuş, pencereden dışarı bakıyor. Pencere pervazı, yeşil bir saksıda bulunan sukulent de dahil olmak üzere saksı bitkileriyle süslenmiştir. Pencereden, çok sayıda penceresi olan bir bina görünüyor. Resmin ön planında, zarif bir tarzda ve bazı süslemelerle "SUSCET Evim güzel evim" yazısı yer almaktadır. Genel sahne sıcak, rahat ve ev hissi veren bir atmosfer yansıtmaktadır.](images/prompt7.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Değiştirin ve iyileştirin**
 
@@ -112,6 +112,6 @@ Güncellenmiş komutu çalıştırın. Görsel, fikrinize uyana kadar gerekli de
 
 ![Çarpıcı mavi gözleri ve pembe burnu olan kabarık beyaz bir kedi, dekoratif metal bir kap içindeki saksı bitkisinin yanında, pencere pervazı ve kanepenin arkasına oturmuş. Pencere pervazı, çiçekli bir yastık, sarkıt yeşil bir bitki ve raflarla birlikte, sıcak ve samimi bir iç mekanın parçasıdır. Pencereden bir bina görünüyor. Görüntünün ön planında, zarif bir tarzda ve bazı süslemelerle yazılmış "EVİM Suzel GÜZEL Evim" metni bulunmaktadır.](images/prompt8.jpg)
 
---- /task ---
+\--- /task ---
 
 Tebrikler! Basit bir fikri ayrıntılı bir görüntü komutuna dönüştürmeyi öğrendiniz. Denemeye devam edin ve kendi benzersiz görsellerinizi yaratırken eğlenin!
