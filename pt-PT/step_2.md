@@ -2,7 +2,7 @@
 
 Segue estes passos para explorar como transformar prompts simples em instruções detalhadas para ajudar a criar imagens fantásticas.
 
---- task ---
+\--- task ---
 
 **Começa com um prompt simples**
 
@@ -14,9 +14,9 @@ Executa este prompt no gerador de imagem. Vê o que produz.
 
 ![Um gatinho laranja e branco com olhos grandes e expressivos, com um nariz cor-de-rosa, e está deitado numa superfície de madeira junto a alguns ramos de alfazema. O gatinho tem um laço cor-de-rosa no pescoço. Ao fundo, encontra-se um vaso de alfazema envolto em serapilheira, sobre um fundo rosa suave.](images/prompt.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Adiciona detalhes específicos**
 
@@ -28,9 +28,9 @@ Executa este novo prompt e compara com a primeira imagem. Como mudou?
 
 ![Um gato branco e fofo com grandes olhos azuis redondos e um nariz cor-de-rosa, que está sentado no parapeito de uma janela. O pelo do gato é comprido e macio. Há gotas de chuva na janela e, através dela, há uma vista de um edifício. No parapeito da janela, atrás do gato, está uma pequena planta num vaso.](images/prompt2.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Descreve o fundo**
 
@@ -42,9 +42,9 @@ Executa o prompt atualizado. Observa os novos elementos que aparecem.
 
 ![Um gato branco e fofo com olhos azuis impactantes e um nariz cor-de-rosa, que está sentado no parapeito de uma janela. A luz do sol entra pela janela. O gato está sentado num tapete fino e, ao seu lado, está uma pequena planta num vaso envolto em serapilheira. O fundo apresenta uma sala acolhedora com cortinas, um sofá com almofadas e prateleiras com itens, como um candeeiro e uma planta em vaso.](images/prompt3.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Incluir elementos-chave**
 
@@ -56,9 +56,9 @@ Executa o prompt atualizado. Como é que os detalhes extra mudam a imagem?
 
 ![Um gato branco e fofo com olhos verdes e um nariz cor-de-rosa, que está sentado no parapeito de uma janela. O parapeito está decorado com diversos vasos com plantas, incluindo uma pequena suculenta e uma planta com folhas maiores. O fundo apresenta um interior acolhedor com cortinas escuras, uma almofada verde e uma manta de malha.](images/prompt4.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Especifica cores e estilos**
 
@@ -70,9 +70,9 @@ Executa o prompt. Vê como as cores e o estilo afetam a imagem.
 
 ![Um gato branco e fofo com olhos escuros e um nariz cor-de-rosa, sentado num parapeito de uma janela. O parapeito da janela está decorado com diversos vasos com plantas, incluindo uma suculenta com espinhos, uma planta de folhas pequenas e uma planta maior com folhas largas num vaso decorativo. A janela por detrás do gato é velha e ligeiramente fosca, pela janela é possível ver uma parede de tijolos. O fundo apresenta um interior acolhedor com cortinas, uma almofada e prateleiras.](images/prompt5.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Pensa na composição**
 
@@ -84,9 +84,9 @@ Executa o prompt e vê como as alterações na composição mudam o foco da imag
 
 ![Um gato branco e fofo com olhos verdes e um nariz cor-de-rosa, sentado numa manta num parapeito de uma janela. O parapeito está decorado com diversos vasos com plantas, incluindo uma suculenta rasteira num vaso verde e uma planta suspensa. O fundo apresenta um interior acolhedor com uma almofada verde, um candeeiro e outra planta.](images/prompt6.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Adiciona texto se quiseres**
 
@@ -98,9 +98,9 @@ Executa o prompt. Verifica se o texto aparece como querias e se encaixa bem na i
 
 ![Um gato branco e fofo com olhos verdes e um nariz cor-de-rosa, sentado num tapete fino num parapeito de uma janela, a olhar pela janela. O parapeito está decorado com plantas em vasos, incluindo uma suculenta num vaso verde. Através da janela, existe uma vista de um edifício com várias janelas. Em primeiro plano na imagem, há um texto que diz "SUSCET Home sweet Home" num estilo de letra elegante, com algumas decorações. O cenário geral transmite uma atmosfera acolhedora e caseira.](images/prompt7.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Mudar e refinar**
 
@@ -112,6 +112,6 @@ Executa o prompt atualizado. Faz as alterações necessárias até que a imagem 
 
 ![Um gato branco e fofo com uns impressionantes olhos azuis e um nariz cor-de-rosa, está sentado no parapeito de uma janela e no encosto de um sofá, ao pé de uma planta num vaso de metal decorativo. O parapeito da janela faz parte de um interior acolhedor, com uma almofada florida, uma planta verde rasteira e prateleiras. Pela janela, é possível ver um edifício. No primeiro plano da imagem, há um texto que diz "HOME Hweet SWEET Home" num estilo de letra elegante com algumas decorações.](images/prompt8.jpg)
 
---- /task ---
+\--- /task ---
 
 Muito bem! Aprendeste como tornar uma simples ideia numa imagem detalhada através de um prompt. Continua a experimentar e diverte-te a criar as tuas próprias imagens únicas!

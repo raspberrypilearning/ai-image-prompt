@@ -1,4 +1,3 @@
----
 title: Prompt um gerador de imagens de IA
 hero_image: images/banner.png
 description: Explora como criar bons prompts para geradores de imagens de IA
@@ -7,11 +6,11 @@ listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: O que vais fazer
+  - 
+    title: O que vais fazer
     completion:
-    - engaged
-  - title: Prompt um gerador de imagens de IA
+      - engaged
+  - 
+    title: Prompt um gerador de imagens de IA
     completion:
-    - internal
-    completion:
-    - external
+      - external

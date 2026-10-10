@@ -1,4 +1,3 @@
----
 title: Crear un generador de imágenes de IA
 hero_image: images/banner.png
 description: Explora cómo crear buenas instrucciones para los generadores de imágenes con IA
@@ -7,11 +6,11 @@ listed: true
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Lo que harás
+  - 
+    title: Lo que harás
     completion:
-    - engaged
-  - title: Dar una instrucción a un generador de imágenes con IA
+      - engaged
+  - 
+    title: Dar una instrucción a un generador de imágenes con IA
     completion:
-    - internal
-    completion: 
-    - external
+      - external
