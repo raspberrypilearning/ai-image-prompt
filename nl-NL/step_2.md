@@ -2,7 +2,7 @@
 
 Volg deze stappen om te ontdekken hoe je eenvoudige aanwijzingen in gedetailleerde instructies kunt veranderen om je te helpen fantastische afbeeldingen te maken.
 
---- task ---
+\--- task ---
 
 **Begin met een eenvoudige opdracht**
 
@@ -14,9 +14,9 @@ Voer deze prompt uit in de afbeeldingsgenerator. Kijk wat het oplevert.
 
 ![Een oranje en wit katje met grote, expressieve ogen en een roze neusje ligt op een houten oppervlak naast wat lavendeltakjes. Het katje heeft een roze strik om zijn nek. Op de achtergrond staat een in jute gewikkelde pot met lavendel, tegen een zachtroze achtergrond.](images/prompt.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Voeg specifieke details toe**
 
@@ -28,9 +28,9 @@ Voer deze nieuwe prompt uit en vergelijk deze met de eerste afbeelding. Hoe is h
 
 ![Een pluizige witte kat met grote, ronde, blauwe ogen en een roze neus zit op een vensterbank. De vacht van de kat is lang en zacht. Er zitten regendruppels op het raam en door het raam is een gebouw zichtbaar. Op de vensterbank achter de kat staat een kleine plant in een potje.](images/prompt2.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Beschrijf de achtergrond**
 
@@ -42,9 +42,9 @@ Voer de bijgewerkte prompt uit. Let op de nieuwe elementen die verschijnen.
 
 ![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank. Het zonlicht schijnt door het raam. De kat zit op een dunne mat, en naast de kat staat een klein plantje in een met jute omwikkelde pot. Op de achtergrond zie je een gezellige kamer met gordijnen, een bank met kussens en planken met spullen zoals een lamp en een potplant.](images/prompt3.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Belangrijke elementen toevoegen**
 
@@ -56,9 +56,9 @@ Voer de bijgewerkte prompt uit. Hoe veranderen de extra details de afbeelding?
 
 ![Een pluizige witte kat met groene ogen en een roze neus zit op een vensterbank. De vensterbank is versierd met verschillende potplanten, waaronder een kleine vetplant en een grotere plant met mooie bladeren. Op de achtergrond zie je een gezellig interieur met donkere gordijnen, een groen kussen en een gebreide deken.](images/prompt4.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Geef kleuren en stijlen op**
 
@@ -70,9 +70,9 @@ Voer de prompt uit. Bekijk hoe de kleuren en de stijl de afbeelding beïnvloeden
 
 ![Een pluizige witte kat met donkergroene ogen en een roze neus zit op een vensterbank. De vensterbank is versierd met verschillende potplanten, waaronder een stekelige vetplant, een klein bladplantje en een grotere plant met brede bladeren in een decoratieve pot. Het raam achter de kat is oud en licht bevroren, en door het raam is een bakstenen muur zichtbaar. Op de achtergrond zie je een gezellig interieur met lichte gordijnen, een kussen en legplanken.](images/prompt5.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Denk na over de compositie**
 
@@ -84,9 +84,9 @@ Voer de prompt uit en kijk hoe het veranderen van de compositie de focus van het
 
 ![Een pluizige witte kat met groene ogen en een roze neus zit op een deken op een vensterbank. De vensterbank is versierd met verschillende potplanten, waaronder een hangende vetplant in een groene pot en een hangplant. Op de achtergrond zie je een gezellig interieur met een groen kussen, een lamp en nog een plant.](images/prompt6.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Voeg eventueel tekst toe**
 
@@ -98,9 +98,9 @@ Voer de prompt uit. Controleer of de tekst verschijnt zoals je wil en goed past 
 
 ![Een pluizige witte kat met groene ogen en een roze neus zit op een dunne mat op een vensterbank en kijkt uit het raam. De vensterbank is versierd met potplanten, waaronder een vetplant in een groene pot. Door het raam is er zicht op een gebouw met meerdere ramen. Op de voorgrond van de afbeelding staat de tekst "SUSCET Home sweet Home" in een elegante stijl, met wat versieringen. Het algehele tafereel straalt een gezellige en huiselijke sfeer uit.](images/prompt7.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Veranderen en verfijnen**
 
@@ -112,6 +112,6 @@ Voer de bijgewerkte prompt uit. Breng de gewenste wijzigingen aan totdat de afbe
 
 ![Een pluizige witte kat met opvallende blauwe ogen en een roze neus zit op een vensterbank en op de rugleuning van een bank, naast een plantje in een decoratieve metalen pot. De vensterbank maakt deel uit van een gezellig interieur, met een bloemenkussen, een groene hangplant en legplanken. Door het raam is een gebouw te zien. Op de voorgrond van de afbeelding staat de tekst "HOME Hweet SWEET Home" in een elegante stijl, met wat versieringen.](images/prompt8.jpg)
 
---- /task ---
+\--- /task ---
 
 Goed gedaan! Je hebt geleerd hoe je een eenvoudig idee omzet in een gedetailleerde afbeelding. Blijf experimenteren en veel plezier met het maken van je eigen unieke afbeeldingen!
