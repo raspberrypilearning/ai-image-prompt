@@ -10,14 +10,13 @@ Bienvenue dans le monde passionnant de la génération d’images IA !
 
 En suivant les étapes de ce projet, tu apprendras à créer des images étonnantes à l'aide d'un générateur d'images IA.
 
---- collapse ---
----
-title: Plus de détails
----
+## --- collapse ---
+
+## title: Plus de détails
 
 Ce projet t'aidera à partir d'idées simples et à les transformer en prompts détaillés que tu pourras utiliser pour produire des images étonnantes. Tu découvriras comment ajouter des détails spécifiques, décrire les paramètres, inclure des éléments clés et réfléchir aux couleurs, aux styles et à la composition. En cours de route, tu testeras tes prompts, effectueras des ajustements et verras comment chaque changement t'aidera à créer ton image.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Ce dont tu auras besoin
 
@@ -25,7 +24,7 @@ Pour ce projet, tu auras besoin d'accéder à un générateur d'images IA.
 
 Si tu n'as pas l'âge minimum requis pour utiliser les générateurs d'images IA disponibles en ligne, ou si tu préféres héberger **ton propre** générateur d'images IA sur un ordinateur Raspberry Pi, [suis nos instructions ici](https://projects.raspberrypi.org/fr-FR/projects/ai-images-on-pi){:target="_blank"}.
 
-#### Générateurs d'images en ligne gratuits
+### Générateurs d'images en ligne gratuits
 
 Un générateur d'images gratuit qui ne t'oblige pas à t'inscrire est [Craiyon](https://www.craiyon.com){:target="_blank"}, mais tu dois avoir [l'âge de la majorité](https://fr.wikipedia.org/wiki/Majorit%C3%A9_civile){:target="_blank"} dans ta juridiction, ou plus, pour l'utiliser ([voir les conditions](https://www.craiyon.com/terms){:target="_blank"} pour plus d'informations).
 
@@ -37,10 +36,9 @@ D'autres outils en ligne sont disponibles, mais nécessitent que tu t'inscrives 
 
 **Si tu as un compte avec l'un de ces services, n'oublie pas de suivre leurs politiques de sécurité.**
 
---- collapse ---
----
-title: Pourquoi recommandons-nous aux apprenants plus âgés d’utiliser ce projet ?
----
+## --- collapse ---
+
+## title: Pourquoi recommandons-nous aux apprenants plus âgés d’utiliser ce projet ?
 
 Il est important de comprendre comment tu peux protéger tes informations personnelles. La Raspberry Pi Foundation est très attentive à la protection de tes données et de ta vie privée, c'est pourquoi nous ne recommandons ce projet qu'aux personnes âgées de plus de 13 ans.
 
@@ -52,4 +50,4 @@ Il est également important de savoir que l'IA générative peut parfois créer 
 
 Amuse-toi à apprendre et à créer avec l'IA générative !
 
---- /collapse ---
+\--- /collapse ---
