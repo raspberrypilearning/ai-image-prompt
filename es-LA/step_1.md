@@ -10,36 +10,35 @@ Este recurso de aprendizaje no se recomienda para estudiantes menores de 13 año
 
 Siguiendo los pasos de este proyecto, aprenderás a crear imágenes asombrosas usando un generador de imágenes IA.
 
---- collapse ---
----
-title: Más detalles
----
+## --- collapse ---
+
+## title: Más detalles
 
 Este proyecto te ayudará a comenzar con ideas sencillas y a convertirlas en instrucciones detalladas que puedas utilizar para producir imágenes impresionantes. Explorarás cómo agregar detalles específicos, describir ajustes; incluir elementos clave; y pensar en colores, estilos y composición. A lo largo del camino, pondras a prueba tus indicaciones, realizarás ajustes y verás cómo cada cambio te ayuda a crear tu imagen.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Lo que necesitarás
 
 Para este proyecto, necesitará acceso a un generador de imágenes de IA.
 
-Si no cumples con la edad mínima para usar generadores de imágenes de IA disponibles en línea, o si prefiere alojar **su propio** generador de imágenes de IA en una computadora Raspberry Pi, [sigue nuestras instrucciones aquí](https://projects.raspberrypi.org/es-LA/projects/ai-images-on-pi){:target="_blank"}.
+Si no cumples con la edad mínima para usar generadores de imágenes de IA disponibles en línea, o si prefiere alojar **su propio** generador de imágenes de IA en una computadora Raspberry Pi, [sigue nuestras instrucciones aquí](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
 ### Generadores gratuitos de imágenes en línea
 
-Un generador de imágenes gratuito que no requiere que te registres es [Craiyon](https://www.craiyon.com){:target="_blank"}, pero debes tener la [mayoría de edad](https://es.wikipedia.org/wiki/Mayor%C3%ADa_de_edad){:target="_blank"} en tu jurisdicción, o ser mayor, para usarlo ([consulta los términos](https://www.craiyon.com/terms){:target="_blank"} para obtener más información).
+Un generador de imágenes gratuito que no requiere que te registres es [Craiyon](https://www.craiyon.com){:target="_blank"}, pero debes tener la [mayoría de edad](https://en.wikipedia.org/wiki/Age_of_majority){:target="_blank"} en tu jurisdicción, o ser mayor, para usarlo ([consulta los términos](https://www.craiyon.com/terms){:target="_blank"} para obtener más información).
 
 Hay otras herramientas en línea disponibles, pero requieren registrarse con un correo electrónico válido. Algunos ejemplos incluyen:
-- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (edad mínima de 13 años y, si no tiene la edad legal para aceptar los términos, necesita el permiso de un padre o tutor para hacerlo; [consulte los términos](https://www.adobe.com/la/legal/terms.html){:target="_blank"} para obtener más información)
-- [Ideogram](https://www.ideogram.ai){:target="_blank"} (edad mínima de 13 años y, si no has alcanzado la mayoría de edad en tu jurisdicción, un padre o tutor debe aceptar los términos en tu nombre. [Consulta los términos](https://ideogram.ai/legal/tos){:target="_blank"} para obtener más información)
+
+- [Adobe Firefly](https://firefly.adobe.com/){:target="_blank"} (edad mínima de 13 años y, si no tiene la edad legal para aceptar los términos, necesita el permiso de un padre o tutor para hacerlo; [consulte los términos](https://www.adobe.com/uk/legal/terms.html){:target="_blank"} para obtener más información)
+- [Ideograma](https://www.ideogram.ai){:target="_blank"} (edad mínima de 13 años y, si no has alcanzado la mayoría de edad en tu jurisdicción, un padre o tutor debe aceptar los términos en tu nombre. [Consulta los términos](https://ideogram.ai/legal/tos){:target="_blank"} para obtener más información)
 - [Stable Diffusion](https://stablediffusionweb.com/){:target="_blank"} ([see the terms](https://stablediffusionweb.com/terms-and-conditions){:target="_blank"})
 
 **Si te registras en alguno de estos servicios, recuerda seguir sus normas de seguridad.**
 
---- collapse ---
----
-title: ¿Por qué recomendamos que este recurso sea utilizado por estudiantes mayores?
----
+## --- collapse ---
+
+## title: ¿Por qué recomendamos que este recurso sea utilizado por estudiantes mayores?
 
 Es importante comprender cómo puedes mantener segura tu informacion personal. La Raspberry Pi Foundation es muy cuidadosa protegiendo tus datos y tu privacidad, por lo que solo recomendamos este proyecto si tienes más de 13 años.
 
@@ -51,4 +50,4 @@ También es importante saber que la IA generativa puede, en ocasiones, crear **c
 
 ¡Disfruta aprendiendo y creando con IA generativa!
 
---- /collapse ---
+\--- /collapse ---
