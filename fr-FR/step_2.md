@@ -2,7 +2,7 @@
 
 Suis ces étapes pour découvrir comment transformer des prompts simples en instructions détaillées pour t'aider à créer des images étonnantes.
 
---- task ---
+\--- task ---
 
 **Commencer avec un prompt simple**
 
@@ -14,9 +14,9 @@ Exécute ce prompt dans le générateur d'images. Vois ce qu'il produit.
 
 ![Un chaton orange et blanc aux grands yeux expressifs et au nez rose repose sur une surface en bois à côté de quelques brins de lavande. Le chaton a un nœud rose autour du cou. À l'arrière-plan, un pot de lavande enveloppé de toile de jute se détache sur un arrière-plan rose pâle.](images/prompt.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Ajouter des détails spécifiques**
 
@@ -28,9 +28,9 @@ Exécute ce nouveau prompt et compare-le à la première image. En quoi cela a-t
 
 ![Un chat blanc à poil long aux grands yeux bleus ronds et au nez rose est assis sur le rebord d'une fenêtre. La fourrure du chat est longue et douce. Il y a des gouttes de pluie sur la fenêtre, et par la fenêtre, il y a une vue sur un bâtiment. Sur le rebord de la fenêtre derrière le chat, il y a une petite plante en pot.](images/prompt2.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Décrire l'arrière-plan**
 
@@ -42,9 +42,9 @@ Exécute le prompt mis à jour. Remarque les nouveaux éléments qui apparaissen
 
 ![Un chat blanc à poil long aux yeux bleus et au nez rose est assis sur le rebord d'une fenêtre. La lumière du soleil passe à travers la fenêtre. Le chat est assis sur un tapis fin et à côté du chat se trouve une petite plante dans un pot enveloppé de toile de jute. En arrière-plan, tu peux voir une pièce chaleureuse avec des rideaux, un canapé avec des coussins et des étagères avec des objets tels qu'une lampe et une plante en pot.](images/prompt3.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Inclure les éléments clés**
 
@@ -56,9 +56,9 @@ Exécute le prompt mis à jour. Comment les détails supplémentaires changent-i
 
 ![Un chat blanc à poil long aux yeux verts et au nez rose est assis sur le rebord d'une fenêtre. Le rebord de la fenêtre est décoré de plusieurs plantes en pot, dont une petite plante succulente et une plante feuillue plus grande. En arrière-plan, tu peux voir un intérieur chaleureux avec des rideaux sombres, un coussin vert et une couverture tricotée.](images/prompt4.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Spécifier les couleurs et les styles**
 
@@ -70,9 +70,9 @@ Exécute le prompt. Vois comment les couleurs et le style affectent l'image.
 
 ![Un chat blanc à poil long aux yeux sombres et au nez rose est assis sur le rebord d'une fenêtre. Le rebord de la fenêtre est décoré de plusieurs plantes en pot, dont une plante succulente épineuse, une petite plante feuillue et une plante plus grande avec de larges feuilles dans un pot décoratif. La fenêtre derrière le chat est vieille et légèrement givrée, et à travers la fenêtre, un mur de briques est visible. En arrière-plan, tu peux voir un intérieur chaleureux avec des rideaux clairs, un coussin et des étagères.](images/prompt5.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Penser à la composition**
 
@@ -84,9 +84,9 @@ Exécute le prompt et vois comment la modification de la composition modifie la 
 
 ![Un chat blanc à poil long aux yeux verts et au nez rose est assis sur une couverture sur le rebord d'une fenêtre. Le rebord de la fenêtre est décoré de plusieurs plantes en pot, dont une succulente dans un pot vert et une plante suspendue. En arrière-plan, tu peux voir un intérieur chaleureux avec un coussin vert, une lampe et une autre plante.](images/prompt6.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Ajouter du texte si nécessaire**
 
@@ -98,9 +98,9 @@ Exécute le prompt. Vérifie si le texte apparaît comme tu le souhaites et qu'i
 
 ![Un chat blanc à poil long aux yeux verts et au nez rose est assis sur un tapis fin sur un rebord de fenêtre, regardant par la fenêtre. Le rebord de la fenêtre est décoré de plantes en pot, dont une succulente dans un pot vert. À travers la fenêtre, on a une vue sur un bâtiment avec plusieurs fenêtres. Au premier plan de l'image, on peut lire "SUSCET Home sweet Home" dans un style élégant, avec quelques décorations. La scène générale dégage une atmosphère chaleureuse et familiale.](images/prompt7.jpg)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 **Changer et affiner**
 
@@ -112,6 +112,6 @@ Exécute le prompt mis à jour. Fais les modifications nécessaires jusqu'à ce 
 
 ![Un chat blanc à poil long aux yeux bleus et au nez rose est assis sur un rebord de fenêtre et sur le dossier d'un canapé, à côté d'une plante en pot dans un récipient métallique décoratif. Le rebord de la fenêtre fait partie d'un intérieur chaleureux, avec un coussin floral, une plante verte rampante et des étagères. À travers la fenêtre, un bâtiment est visible. Au premier plan de l'image, on peut lire "HOME Hweet SWEET Home" dans un style élégant, avec quelques décorations.](images/prompt8.jpg)
 
---- /task ---
+\--- /task ---
 
 Bien joué ! Tu as appris à transformer une idée simple en un prompt d'image détaillé. Continue à expérimenter et amuse-toi à créer tes propres images uniques !
