@@ -10,20 +10,19 @@ Yapay zekâ ile görüntü oluşturmanın heyecan verici dünyasına hoş geldin
 
 Bu projedeki adımları takip ederek, yapay zekâ destekli bir görüntü oluşturucu kullanarak muhteşem görüntüler oluşturmayı öğreneceksiniz.
 
---- collapse ---
----
-title: Daha fazla detay
----
+## --- collapse ---
+
+## title: Daha fazla detay
 
 Bu proje, basit fikirlerden yola çıkarak, çarpıcı görüntüler üretmek için kullanabileceğiniz ayrıntılı komutlar oluşturmanıza yardımcı olacaktır. Bu derste, belirli ayrıntıları nasıl ekleyeceğinizi; ortamları nasıl tanımlayacağınızı; temel unsurları nasıl dahil edeceğinizi; ve renkler, stiller ve kompozisyon hakkında nasıl düşüneceğinizi keşfedeceksiniz. Bu süreçte, komutlarınızı test edecek, ayarlamalar yapacak ve her değişikliğin görüntünüzü oluşturmanıza nasıl yardımcı olduğunu göreceksiniz.
 
---- /collapse ---
+\--- /collapse ---
 
 ### Nelere ihtiyacınız olacak
 
 Bu proje için yapay zeka destekli bir görüntü oluşturma aracına ihtiyacınız olacak.
 
-Çevrimiçi olarak kullanılabilen yapay zekâ görüntü oluşturucularını kullanmak için gereken minimum yaş sınırının altındaysanız veya Raspberry Pi bilgisayarınızda **kendi** yapay zekâ görüntü oluşturucunuzu barındırmayı tercih ediyorsanız, [buradaki talimatlarımızı izleyin](https://projects.raspberrypi.org/tr-TR/projects/ai-images-on-pi){:target="_blank"}.
+Çevrimiçi olarak kullanılabilen yapay zekâ görüntü oluşturucularını kullanmak için gereken minimum yaş sınırının altındaysanız veya Raspberry Pi bilgisayarınızda **kendi** yapay zekâ görüntü oluşturucunuzu barındırmayı tercih ediyorsanız, [buradaki talimatlarımızı izleyin](https://projects.raspberrypi.org/en/projects/ai-images-on-pi){:target="_blank"}.
 
 ### Ücretsiz Çevrimiçi Görüntü Oluşturucular
 
@@ -37,10 +36,9 @@ Başka çevrimiçi araçlar da mevcuttur, ancak bunlar için geçerli bir e-post
 
 **Bu hizmetlerden birine hesap açarsanız, lütfen güvenlik politikalarına uymayı unutmayın.**
 
---- collapse ---
----
-title: Neden daha büyük yaştaki öğrencilerin bu projeyi kullanmasını öneriyoruz?
----
+## --- collapse ---
+
+## title: Neden daha büyük yaştaki öğrencilerin bu projeyi kullanmasını öneriyoruz?
 
 Kişisel bilgilerinizi nasıl güvende tutabileceğinizi anlamak önemlidir. Raspberry Pi, verilerinizin ve gizliliğinizin korunması konusunda son derece titiz davranmaktadır; bu nedenle bu projeyi yalnızca 13 yaşından büyük kişilere öneriyoruz.
 
@@ -52,4 +50,4 @@ Ayrıca, üretken yapay zekânın bazen **doğru, adil veya uygun olmayan içeri
 
 Üretken yapay zekâ ile öğrenmenin ve yaratmanın keyfini çıkarın!
 
---- /collapse ---
+\--- /collapse ---
